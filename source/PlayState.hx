@@ -325,6 +325,11 @@ class PlayState extends MusicBeatState
 	// stores the last combo score objects in an array
 	public static var lastScore:Array<FlxSprite> = [];
 
+
+	public var camOnBf:Bool = true;
+	public var curCamPosX:Float = 0;
+	public var curCamPosY:Float = 0;
+
 	override public function create()
 	{
 		//trace('Playback Rate: ' + playbackRate);
@@ -3821,6 +3826,8 @@ class PlayState extends MusicBeatState
 			return;
 		}
 
+		var oldMove = camOnBf;
+
 		if (!SONG.notes[curSection].mustHitSection)
 		{
 			moveCamera(true);
@@ -3834,8 +3841,12 @@ class PlayState extends MusicBeatState
 	}
 
 	var cameraTwn:FlxTween;
-	public function moveCamera(isDad:Bool)
+	public function moveCamera(isDad:Bool, ?repeater:Bool = false)
 	{
+		if ((camOnBf == !isDad) != repeater) {
+			return;
+		}
+		camOnBf=!isDad;
 		if(isDad)
 		{
 			camFollow.set(dad.getMidpoint().x + 150, dad.getMidpoint().y - 100);
@@ -3859,6 +3870,8 @@ class PlayState extends MusicBeatState
 				});
 			}
 		}
+		curCamPosX = camFollow.x;
+		curCamPosY = camFollow.y;
 	}
 
 	function tweenCamIn() {
@@ -4599,6 +4612,20 @@ class PlayState extends MusicBeatState
 		if (Paths.formatToSongPath(SONG.song) != 'tutorial')
 			camZooming = true;
 
+		if (!camOnBf) {
+			switch(note.noteData) {
+				case 0:
+					camFollow.set(curCamPosX - dad.NoteCamMove, curCamPosY);
+				case 1:
+					camFollow.set(curCamPosX, curCamPosY + dad.NoteCamMove);
+				case 2:
+					camFollow.set(curCamPosX, curCamPosY - dad.NoteCamMove);
+				case 3:
+					camFollow.set(curCamPosX + dad.NoteCamMove, curCamPosY);
+				default:
+			}
+		}
+
 		if(note.noteType == 'Hey!' && dad.animOffsets.exists('hey')) {
 			dad.playAnim('hey', true);
 			dad.specialAnim = true;
@@ -4655,6 +4682,21 @@ class PlayState extends MusicBeatState
 			if (ClientPrefs.hitsoundVolume > 0 && !note.hitsoundDisabled)
 			{
 				FlxG.sound.play(Paths.sound('hitsound'), ClientPrefs.hitsoundVolume);
+			}
+
+			if (camOnBf) {
+				switch(note.noteData) {
+					case 0:
+						camFollow.set(curCamPosX - boyfriend.NoteCamMove, curCamPosY);
+					case 1:
+						camFollow.set(curCamPosX, curCamPosY + boyfriend.NoteCamMove);
+					case 2:
+						camFollow.set(curCamPosX, curCamPosY - boyfriend.NoteCamMove);
+					case 3:
+						camFollow.set(curCamPosX + boyfriend.NoteCamMove, curCamPosY);
+					default:
+						//trace("noob");
+				}
 			}
 
 			if(note.hitCausesMiss) {

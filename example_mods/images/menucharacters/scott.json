@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "scott idle dance00",
+	"idle_anim": "scott idle dance0",
+	"position": [
+		90,
+		160
+	],
+	"scale": 0.5,
+	"flipX": false,
+	"image": "Menu_Scott"
+}

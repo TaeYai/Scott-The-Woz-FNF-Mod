@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "shock",
+			"text": "Oh no! I really forgot to put up that “No Sex Allowed” on my door... Now what am I gonna do??",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "neutral",
+			"text": "Okay, now you might be thinking;",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "shock",
+			"text": "\"“Oh no Scott, Friday Night Funkin”? Now you’'re NEVER\r\ngoing to be laid!\"”",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "one",
+			"text": "First of all, I talk about video games.",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "two",
+			"text": "Second of all,\r\n we’ve already had two world wars anyway;\r\nwho the hell cares if we have another one? ",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "rthr",
+			"text": "Well I did play Ride to Hell: Retribution.",
+			"boxState": "normal",
+			"portrait": "scottdoc",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "mic",
+			"text": "Friday Night Funkin’ is a unique twist to the whole rhythm game genre and gives a whole new approach... …",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		},
+		{
+			"expression": "mic2",
+			"text": "kinda like Rhythm Doctor without a medical degree!",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.04,
+			"sound": ""
+		}, 
+		{
+			"expression": "docshock",
+			"text": "Ah shit we’re losing him doctor!",
+			"boxState": "angry",
+			"portrait": "scottprofiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "mic",
+			"text": "Just rap the shit outta them.",
+			"boxState": "angry",
+			"portrait": "scottdoc",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "mic",
+			"text": "Singing against an opponent to a rap battle just gives more flavor to the entire genre \r\nand is just so original!",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "mic",
+			"text": "but c'mon, why would a 23 year old human need something other than a singular hobby talking about video games…",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.025,
+			"sound": ""
+		},
+		{
+			"expression": "show",
+			"text": "I mean BAM! Look at all my music that I’ve sang that doesn't revolve or relate to my crippling obsessive hobbies!",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.035,
+			"sound": ""
+		},
+		{
+			"expression": "zero",
+			"text": "'0'",
+			"boxState": "normal",
+			"portrait": "zero",
+			"speed": 0.0249999999999996,
+			"sound": ""
+		},
+		{
+			"expression": "showwhat",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.0249999999999996,
+			"sound": ""
+		},
+		{
+			"expression": "showwhat",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.0249999999999996,
+			"sound": ""
+		},
+		{
+			"expression": "showwhat",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.0249999999999996,
+			"sound": ""
+		},
+		{
+			"expression": "showwhat",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "scottprofiles",
+			"speed": 0.0249999999999996,
+			"sound": ""
+		}
+	]
+}

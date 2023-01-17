@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angscott Sing Note LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-110
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angscott Sing Note DOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				32
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angscott Sing Note UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				3
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angscott Sing Note RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angscott idle dance0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AngryScott",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "scott-angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		3,
+		102,
+		252
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

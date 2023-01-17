@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScottProfiles.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ScottProfAugh0000" x="20" y="20" width="279" height="456"/>
+	<SubTexture name="ScottProfBlue0000" x="319" y="20" width="318" height="468"/>
+	<SubTexture name="ScottProfCringe0000" x="657" y="20" width="262" height="459"/>
+	<SubTexture name="ScottProfDocMic0000" x="939" y="20" width="479" height="478"/>
+	<SubTexture name="ScottProfDocShock0000" x="1438" y="20" width="318" height="477"/>
+	<SubTexture name="ScottProfEvicted0000" x="1776" y="20" width="371" height="410"/>
+	<SubTexture name="ScottProfFucked0000" x="2167" y="20" width="362" height="462"/>
+	<SubTexture name="ScottProfHelp0000" x="2549" y="20" width="365" height="410"/>
+	<SubTexture name="ScottProfHow0000" x="2934" y="20" width="392" height="455"/>
+	<SubTexture name="ScottProfIdea0000" x="3346" y="20" width="395" height="457"/>
+	<SubTexture name="ScottProfMic0000" x="20" y="518" width="359" height="477"/>
+	<SubTexture name="ScottProfMic240000" x="399" y="518" width="364" height="481"/>
+	<SubTexture name="ScottProfMicTrans0000" x="783" y="518" width="364" height="481"/>
+	<SubTexture name="ScottProfNeutral0000" x="1167" y="518" width="392" height="460"/>
+	<SubTexture name="ScottProfOh0000" x="1579" y="518" width="319" height="465"/>
+	<SubTexture name="ScottProfOne0000" x="1918" y="518" width="385" height="461"/>
+	<SubTexture name="ScottProfPoint0000" x="2323" y="518" width="423" height="459"/>
+	<SubTexture name="ScottProfPoint20000" x="2766" y="518" width="557" height="460"/>
+	<SubTexture name="ScottProfRTHR0000" x="3343" y="518" width="302" height="434"/>
+	<SubTexture name="ScottProfShock0000" x="3665" y="518" width="304" height="457"/>
+	<SubTexture name="ScottProfShow0000" x="20" y="1019" width="470" height="456"/>
+	<SubTexture name="ScottProfShowWhat0000" x="510" y="1019" width="485" height="460"/>
+	<SubTexture name="ScottProfTwo0000" x="1015" y="1019" width="496" height="463"/>
+	<SubTexture name="ScottProfUhOh0000" x="1531" y="1019" width="310" height="422"/>
+	<SubTexture name="ScottProfUp0000" x="1861" y="1019" width="349" height="402"/>
+	<SubTexture name="ScottProfVegan0000" x="2230" y="1019" width="423" height="459"/>
+	<SubTexture name="ScottProfWait0000" x="2673" y="1019" width="397" height="452"/>
+	<SubTexture name="ScottProfWha0000" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0001" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0002" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0003" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0004" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0005" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0006" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0007" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0008" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0009" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0010" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0011" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0012" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0013" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0014" x="3090" y="1019" width="365" height="410" frameX="-8" frameY="-30" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0015" x="3475" y="1019" width="360" height="415" frameX="-2" frameY="-25" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0016" x="3475" y="1019" width="360" height="415" frameX="-2" frameY="-25" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0017" x="20" y="1502" width="413" height="448" frameX="0" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0018" x="20" y="1502" width="413" height="448" frameX="0" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0019" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0020" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0021" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0022" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0023" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0024" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0025" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0026" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0027" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0028" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0029" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0030" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0031" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0032" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0033" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0034" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+	<SubTexture name="ScottProfWha0035" x="453" y="1502" width="404" height="448" frameX="-10" frameY="0" frameWidth="414" frameHeight="448"/>
+</TextureAtlas>

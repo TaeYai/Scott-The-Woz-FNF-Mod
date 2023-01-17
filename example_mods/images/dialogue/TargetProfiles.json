@@ -1,0 +1,37 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "right",
+	"scale": 1.25,
+	"image": "TargetProfiles",
+	"animations": [
+		{
+			"loop_offsets": [
+				50,
+				0
+			],
+			"anim": "look",
+			"idle_offsets": [
+				50,
+				0
+			],
+			"loop_name": "TargetProfLook0",
+			"idle_name": "TargetProfLook0040"
+		},
+		{
+			"loop_offsets": [
+				240,
+				0
+			],
+			"anim": "read",
+			"idle_offsets": [
+				240,
+				0
+			],
+			"loop_name": "TargetProfRead0",
+			"idle_name": "TargetProfRead0"
+		}
+	]
+}

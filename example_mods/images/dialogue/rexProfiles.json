@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "RexProfArrival0",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "RexProfArrival0",
+			"anim": "arrival",
+			"loop_offsets": [
+				-150,
+				0
+			]
+		},
+		{
+			"loop_name": "RexProfBusy0",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "RexProfBusy0",
+			"anim": "busy",
+			"loop_offsets": [
+				-150,
+				0
+			]
+		}
+	],
+	"image": "RexProfiles"
+}

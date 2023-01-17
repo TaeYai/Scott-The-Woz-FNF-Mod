@@ -33,6 +33,7 @@ typedef CharacterFile = {
 	var flip_x:Bool;
 	var no_antialiasing:Bool;
 	var healthbar_colors:Array<Int>;
+	var cammove:Null<Float>;
 }
 
 typedef AnimArray = {
@@ -68,6 +69,7 @@ class Character extends FlxSprite
 
 	public var positionArray:Array<Float> = [0, 0];
 	public var cameraPosition:Array<Float> = [0, 0];
+	public var NoteCamMove:Float = 35;
 
 	public var hasMissAnimations:Bool = false;
 
@@ -183,6 +185,10 @@ class Character extends FlxSprite
 				if(json.no_antialiasing) {
 					antialiasing = false;
 					noAntialiasing = true;
+				}
+
+				if(json.cammove != null) {
+					NoteCamMove = json.cammove;
 				}
 
 				if(json.healthbar_colors != null && json.healthbar_colors.length > 2)

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TerryProfiles.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TerryProfDefault0000" x="20" y="20" width="399" height="463"/>
+	<SubTexture name="TerryProfGun0000" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0001" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0002" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0003" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0004" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0005" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0006" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0007" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0008" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0009" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0010" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0011" x="439" y="20" width="535" height="593" frameX="-100" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0012" x="994" y="20" width="585" height="548" frameX="-49" frameY="-8" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0013" x="994" y="20" width="585" height="548" frameX="-49" frameY="-8" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0014" x="1599" y="20" width="626" height="477" frameX="-8" frameY="-3" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0015" x="1599" y="20" width="626" height="477" frameX="-8" frameY="-3" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0016" x="2245" y="20" width="634" height="479" frameX="0" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0017" x="2245" y="20" width="634" height="479" frameX="0" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0018" x="2899" y="20" width="611" height="480" frameX="-24" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0019" x="2899" y="20" width="611" height="480" frameX="-24" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0020" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0021" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0022" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0023" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0024" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0025" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0026" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0027" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0028" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfGun0029" x="20" y="633" width="631" height="480" frameX="-4" frameY="0" frameWidth="635" frameHeight="593"/>
+	<SubTexture name="TerryProfPoint0000" x="671" y="633" width="301" height="463"/>
+	<SubTexture name="TerryProfThink0000" x="992" y="633" width="637" height="463"/>
+	<SubTexture name="TerryProfWait0000" x="1649" y="633" width="640" height="480"/>
+</TextureAtlas>

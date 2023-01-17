@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nervscott Sing Note LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				31
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nervscott Sing Note DOWN0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				-104
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nervscott Sing Note UP0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nervscott Sing Note RIGHT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nervscott idle dance0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NervousScott",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "scott-nerv",
+	"flip_x": false,
+	"healthbar_colors": [
+		3,
+		102,
+		252
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

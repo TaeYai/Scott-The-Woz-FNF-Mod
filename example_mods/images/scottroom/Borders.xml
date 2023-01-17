@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Borders.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Big Border0000" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border0000" x="1364" y="20" width="1299" height="739"/>
+	<SubTexture name="Border COver0000" x="2683" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver0001" x="4027" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver0002" x="5371" y="20" width="1329" height="768"/>
+	<SubTexture name="Border COver0003" x="6720" y="20" width="1325" height="768" frameX="0" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver0004" x="20" y="808" width="1325" height="768" frameX="0" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver0005" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border COver0006" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border COver0007" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border COver0008" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border COver 20000" x="1365" y="808" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver 20001" x="2709" y="808" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver 20002" x="5371" y="20" width="1329" height="768"/>
+	<SubTexture name="Border COver 20003" x="4053" y="808" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver 20004" x="5397" y="808" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1329" frameHeight="768"/>
+	<SubTexture name="Border COver 20005" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border COver 20006" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border COver 20007" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border COver 20008" x="20" y="20" width="1324" height="768" frameX="-1" frameY="0" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border Closed0000" x="6741" y="808" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0001" x="6741" y="808" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0002" x="20" y="1596" width="1324" height="773"/>
+	<SubTexture name="Border Closed0003" x="20" y="1596" width="1324" height="773"/>
+	<SubTexture name="Border Closed0004" x="1364" y="1596" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0005" x="1364" y="1596" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0006" x="2708" y="1596" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0007" x="4052" y="1596" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0008" x="5396" y="1596" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0009" x="6740" y="1596" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0010" x="20" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0011" x="1364" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0012" x="1364" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0013" x="1364" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0014" x="1364" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Closed0015" x="1364" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1324" frameHeight="773"/>
+	<SubTexture name="Border Cut0000" x="2708" y="2389" width="1325" height="768"/>
+	<SubTexture name="Border Cut0001" x="2708" y="2389" width="1325" height="768"/>
+	<SubTexture name="Border Cut0002" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0003" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0004" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0005" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0006" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0007" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0008" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0009" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0010" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0011" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0012" x="4053" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1325" frameHeight="768"/>
+	<SubTexture name="Border Cut0013" x="5397" y="2389" width="1325" height="768"/>
+	<SubTexture name="Border Cut0014" x="5397" y="2389" width="1325" height="768"/>
+	<SubTexture name="Border Cut0015" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Cut0016" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Down0000" x="6742" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0001" x="6742" y="2389" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0002" x="20" y="3177" width="1326" height="768"/>
+	<SubTexture name="Border Down0003" x="20" y="3177" width="1326" height="768"/>
+	<SubTexture name="Border Down0004" x="1366" y="3177" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0005" x="1366" y="3177" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0006" x="1366" y="3177" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0007" x="1366" y="3177" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0008" x="2710" y="3177" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0009" x="2710" y="3177" width="1324" height="768" frameX="0" frameY="0" frameWidth="1326" frameHeight="768"/>
+	<SubTexture name="Border Down0010" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Down0011" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Growth0000" x="4054" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0001" x="4054" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0002" x="5398" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0003" x="5398" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0004" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0005" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0006" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0007" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0008" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0009" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0010" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0011" x="6742" y="3177" width="1324" height="768"/>
+	<SubTexture name="Border Growth0012" x="20" y="3965" width="1324" height="768"/>
+	<SubTexture name="Border Growth0013" x="20" y="3965" width="1324" height="768"/>
+	<SubTexture name="Border Growth0014" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Growth0015" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Left0000" x="1364" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0001" x="1364" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0002" x="2708" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0003" x="2708" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0004" x="4052" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0005" x="4052" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0006" x="4052" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0007" x="4052" y="3965" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="779"/>
+	<SubTexture name="Border Left0008" x="5396" y="3965" width="1324" height="779"/>
+	<SubTexture name="Border Left0009" x="5396" y="3965" width="1324" height="779"/>
+	<SubTexture name="Border Left0010" x="20" y="20" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border Left0011" x="20" y="20" width="1324" height="768" frameX="0" frameY="-2" frameWidth="1324" frameHeight="768"/>
+	<SubTexture name="Border Meta0000" x="6740" y="3965" width="1324" height="768"/>
+	<SubTexture name="Border Meta0001" x="6740" y="3965" width="1324" height="768"/>
+	<SubTexture name="Border Meta0002" x="20" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0003" x="20" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0004" x="1364" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0005" x="1364" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0006" x="2708" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0007" x="2708" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0008" x="4052" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0009" x="4052" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0010" x="5396" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0011" x="5396" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0012" x="6740" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0013" x="6740" y="4764" width="1324" height="768"/>
+	<SubTexture name="Border Meta0014" x="20" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Meta0015" x="20" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Meta0016" x="1364" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Meta0017" x="1364" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Meta0018" x="2708" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Meta0019" x="2708" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Meta0020" x="4052" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Meta0021" x="4052" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Right0000" x="5396" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Right0001" x="5396" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Right0002" x="6740" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Right0003" x="6740" y="5552" width="1324" height="768"/>
+	<SubTexture name="Border Right0004" x="20" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Right0005" x="20" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Right0006" x="20" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Right0007" x="20" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Right0008" x="1364" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Right0009" x="1364" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Right0010" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Right0011" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Up0000" x="2708" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0001" x="2708" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0002" x="4052" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0003" x="4052" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0004" x="5396" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0005" x="5396" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0006" x="5396" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0007" x="5396" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0008" x="6740" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0009" x="6740" y="6340" width="1324" height="768"/>
+	<SubTexture name="Border Up0010" x="20" y="20" width="1324" height="768"/>
+	<SubTexture name="Border Up0011" x="20" y="20" width="1324" height="768"/>
+</TextureAtlas>

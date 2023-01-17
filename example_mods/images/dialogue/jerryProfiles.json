@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "JerryProfConcern0",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "JerryProfConcern0",
+			"anim": "concern",
+			"loop_offsets": [
+				-150,
+				0
+			]
+		},
+		{
+			"loop_name": "JerryProfNeutral0",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "JerryProfNeutral0",
+			"anim": "neutral",
+			"loop_offsets": [
+				-150,
+				0
+			]
+		},
+		{
+			"loop_name": "JerryProfPlease0",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "JerryProfPlease0",
+			"anim": "please",
+			"loop_offsets": [
+				-150,
+				0
+			]
+		},
+		{
+			"loop_name": "JerryProfReali0",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "JerryProfReali0",
+			"anim": "real",
+			"loop_offsets": [
+				-150,
+				0
+			]
+		}
+	],
+	"image": "JerryProfiles"
+}
