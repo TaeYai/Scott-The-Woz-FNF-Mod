@@ -52,6 +52,7 @@ typedef DialogueLine = {
 	var boxState:Null<String>;
 	var speed:Null<Float>;
 	var sound:Null<String>;
+	var bg:Null<String>;
 }
 
 class DialogueCharacter extends FlxSprite
@@ -70,6 +71,7 @@ class DialogueCharacter extends FlxSprite
 	public var startingPos:Float = 0; //For center characters, it works as the starting Y, for everything else it works as starting X
 	public var isGhost:Bool = false; //For the editor
 	public var curCharacter:String = 'bf';
+	
 	public var skiptimer = 0;
 	public var skipping = 0;
 	public function new(x:Float = 0, y:Float = 0, character:String = null)
@@ -174,7 +176,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 	var bgFade:FlxSprite = null;
 	var box:FlxSprite;
 	var textToType:String = '';
-
+	var background:FlxSprite;
 	var arrayCharacters:Array<DialogueCharacter> = [];
 
 	var currentText:Int = 0;
@@ -193,12 +195,22 @@ class DialogueBoxPsych extends FlxSpriteGroup
 			FlxG.sound.playMusic(Paths.music(song), 0);
 			FlxG.sound.music.fadeIn(2, 0, 1);
 		}
-		
+		var curDialogue:DialogueLine = null;
+		do {
+			curDialogue = dialogueList.dialogue[currentText];
+		} while(curDialogue == null);
+
+
 		bgFade = new FlxSprite(-500, -500).makeGraphic(FlxG.width * 2, FlxG.height * 2, FlxColor.WHITE);
 		bgFade.scrollFactor.set();
 		bgFade.visible = true;
 		bgFade.alpha = 0;
 		add(bgFade);
+
+		background = new FlxSprite().loadGraphic(Paths.image('dialogue/' + curDialogue.bg));
+		background.scrollFactor.set();
+		background.visible = true;
+		add(background);
 
 		this.dialogueList = dialogueList;
 		spawnCharacters();
@@ -458,7 +470,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		if(curDialogue.text == null || curDialogue.text.length < 1) curDialogue.text = ' ';
 		if(curDialogue.boxState == null) curDialogue.boxState = 'normal';
 		if(curDialogue.speed == null || Math.isNaN(curDialogue.speed)) curDialogue.speed = 0.05;
-
+		if(curDialogue.bg == null) background.visible = false;
 		var animName:String = curDialogue.boxState;
 		var boxType:String = textBoxTypes[0];
 		for (i in 0...textBoxTypes.length) {
@@ -466,6 +478,12 @@ class DialogueBoxPsych extends FlxSpriteGroup
 				boxType = animName;
 			}
 		}
+
+
+		remove(background);
+		background = new FlxSprite().loadGraphic(Paths.image('dialogue/' + curDialogue.bg));
+		background.visible = true;
+		add(background);
 
 		var character:Int = 0;
 		box.visible = true;

@@ -56,7 +56,8 @@ class DialogueEditorState extends MusicBeatState
 			text: DEFAULT_TEXT,
 			boxState: DEFAULT_BUBBLETYPE,
 			speed: 0.05,
-			sound: ''
+			sound: '',
+			bg: ''
 		};
 
 		dialogueFile = {
@@ -178,7 +179,8 @@ class DialogueEditorState extends MusicBeatState
 			text: defaultLine.text,
 			boxState: defaultLine.boxState,
 			speed: defaultLine.speed,
-			sound: ''
+			sound: '',
+			bg: ''
 		};
 		return copyLine;
 	}
