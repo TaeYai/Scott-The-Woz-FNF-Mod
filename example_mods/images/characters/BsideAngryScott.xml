@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BsideAngryScott.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angscott Sing Note DOWN0000" x="20" y="20" width="431" height="598" frameX="0" frameY="-11" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0001" x="20" y="20" width="431" height="598" frameX="0" frameY="-11" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0002" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0003" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0004" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0005" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0006" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0007" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0008" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0009" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0010" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0011" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0012" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0013" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0014" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0015" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0016" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0017" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0018" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0019" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0020" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0021" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0022" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0023" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0024" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0025" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0026" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0027" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0028" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note DOWN0029" x="471" y="20" width="432" height="609" frameX="-8" frameY="0" frameWidth="440" frameHeight="609"/>
+	<SubTexture name="angscott Sing Note LEFT0000" x="923" y="20" width="490" height="703" frameX="-8" frameY="-5" frameWidth="518" frameHeight="708"/>
+	<SubTexture name="angscott Sing Note LEFT0001" x="923" y="20" width="490" height="703" frameX="-8" frameY="-5" frameWidth="518" frameHeight="708"/>
+	<SubTexture name="angscott Sing Note LEFT0002" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0003" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0004" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0005" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0006" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0007" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0008" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0009" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0010" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0011" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0012" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0013" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0014" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0015" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0016" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0017" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0018" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0019" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0020" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0021" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0022" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0023" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0024" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0025" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0026" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0027" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0028" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note LEFT0029" x="1433" y="20" width="518" height="708"/>
+	<SubTexture name="angscott Sing Note RIGHT0000" x="1971" y="20" width="531" height="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0001" x="1971" y="20" width="531" height="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0002" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0003" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0004" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0005" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0006" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0007" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0008" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0009" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0010" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0011" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0012" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0013" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0014" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0015" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0016" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0017" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0018" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0019" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0020" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0021" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0022" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0023" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0024" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0025" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0026" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0027" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0028" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note RIGHT0029" x="2522" y="20" width="524" height="716" frameX="-5" frameY="0" frameWidth="531" frameHeight="716"/>
+	<SubTexture name="angscott Sing Note UP0000" x="3066" y="20" width="390" height="744" frameX="-11" frameY="0" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0001" x="3066" y="20" width="390" height="744" frameX="-11" frameY="0" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0002" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0003" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0004" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0005" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0006" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0007" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0008" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0009" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0010" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0011" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0012" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0013" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0014" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0015" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0016" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0017" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0018" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0019" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0020" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0021" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0022" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0023" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0024" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0025" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0026" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0027" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0028" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott Sing Note UP0029" x="3476" y="20" width="413" height="726" frameX="0" frameY="-16" frameWidth="413" frameHeight="744"/>
+	<SubTexture name="angscott idle dance0000" x="20" y="784" width="498" height="688" frameX="0" frameY="-20" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0001" x="20" y="784" width="498" height="688" frameX="0" frameY="-20" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0002" x="538" y="784" width="477" height="682" frameX="-5" frameY="-26" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0003" x="538" y="784" width="477" height="682" frameX="-5" frameY="-26" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0004" x="1035" y="784" width="430" height="696" frameX="-14" frameY="-12" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0005" x="1035" y="784" width="430" height="696" frameX="-14" frameY="-12" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0006" x="1485" y="784" width="443" height="703" frameX="-12" frameY="-5" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0007" x="1485" y="784" width="443" height="703" frameX="-12" frameY="-5" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0008" x="1948" y="784" width="455" height="708" frameX="-8" frameY="0" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0009" x="1948" y="784" width="455" height="708" frameX="-8" frameY="0" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0010" x="1948" y="784" width="455" height="708" frameX="-8" frameY="0" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0011" x="1948" y="784" width="455" height="708" frameX="-8" frameY="0" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0012" x="1948" y="784" width="455" height="708" frameX="-8" frameY="0" frameWidth="498" frameHeight="708"/>
+	<SubTexture name="angscott idle dance0013" x="1948" y="784" width="455" height="708" frameX="-8" frameY="0" frameWidth="498" frameHeight="708"/>
+</TextureAtlas>

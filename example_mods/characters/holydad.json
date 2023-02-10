@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad Idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad RIght0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Dad Left Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				5
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Dad Down Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Dad Up Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Dad RIght Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				4
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Dad Dies0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Dad Dead'0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-4,
+				84
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Dad Dead Confirm0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dad",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "holydad",
+	"flip_x": true,
+	"healthbar_colors": [
+		255, 160, 36
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -126,6 +126,10 @@ class PlayState extends MusicBeatState
 	public var BF_Y:Float = 100;
 	public var DAD_X:Float = 100;
 	public var DAD_Y:Float = 100;
+	public var DAD2_X:Float = 100;
+	public var DAD2_Y:Float = 100;
+	public var DAD3_X:Float = 100;
+	public var DAD3_Y:Float = 100;
 	public var GF_X:Float = 400;
 	public var GF_Y:Float = 130;
 
@@ -152,6 +156,8 @@ class PlayState extends MusicBeatState
 	public var vocals:FlxSound;
 
 	public var dad:Character = null;
+	public var dad2:Character = null;
+	public var dad3:Character = null;
 	public var gf:Character = null;
 	public var boyfriend:Boyfriend = null;
 
@@ -492,6 +498,7 @@ class PlayState extends MusicBeatState
 		GF_Y = stageData.girlfriend[1];
 		DAD_X = stageData.opponent[0];
 		DAD_Y = stageData.opponent[1];
+
 
 		if(stageData.camera_speed != null)
 			cameraSpeed = stageData.camera_speed;
@@ -976,6 +983,18 @@ class PlayState extends MusicBeatState
 		}
 
 		dad = new Character(0, 0, SONG.player2);
+		if(SONG.song == 'Team Fucked')
+			{
+				dad2 = new Character(0, 0, 'terry');
+				dad3 = new Character(0, 0, 'jeb');
+				startCharacterPos(dad2, false);
+				startCharacterPos(dad3, false);
+				startCharacterLua(dad2.curCharacter);
+				startCharacterLua(dad3.curCharacter);
+				add(dad2);
+				add(dad3);
+			}
+
 		startCharacterPos(dad, true);
 		dadGroup.add(dad);
 		startCharacterLua(dad.curCharacter);
@@ -2146,8 +2165,24 @@ class PlayState extends MusicBeatState
 				if (tmr.loopsLeft % dad.danceEveryNumBeats == 0 && dad.animation.curAnim != null && !dad.animation.curAnim.name.startsWith('sing') && !dad.stunned)
 				{
 					dad.dance();
+					
 				}
+				if (SONG.song == 'Team Fucked' && tmr.loopsLeft % dad2.danceEveryNumBeats == 0 && dad2.animation.curAnim != null && !dad2.animation.curAnim.name.startsWith('sing') && !dad2.stunned)
+					{
 
+								dad2.dance();
+							
+							
+						
+					}
+				if (SONG.song == 'Team Fucked' && tmr.loopsLeft % dad3.danceEveryNumBeats == 0 && dad3.animation.curAnim != null && !dad3.animation.curAnim.name.startsWith('sing') && !dad3.stunned)
+					{
+
+							
+								dad3.dance();
+							
+						
+					}
 				var introAssets:Map<String, Array<String>> = new Map<String, Array<String>>();
 				introAssets.set('default', ['ready', 'set', 'go']);
 				introAssets.set('pixel', ['pixelUI/ready-pixel', 'pixelUI/set-pixel', 'pixelUI/date-pixel']);
@@ -4645,9 +4680,22 @@ class PlayState extends MusicBeatState
 			if(note.gfNote) {
 				char = gf;
 			}
+			if(note.noteType == 'terrynote') {
+				char = dad2;
+				iconP2.changeIcon('terry');
+			}
+			if(note.noteType == 'jebnote') {
+				char = dad3;
+				iconP2.changeIcon('jeb');
+			}
+			
 
 			if(char != null)
 			{
+				if(note.noteType != 'terrynote' && note.noteType != 'jebnote')
+					{
+						iconP2.changeIcon(dad.healthIcon);
+					}
 				char.playAnim(animToPlay, true);
 				char.holdTimer = 0;
 			}
@@ -5089,6 +5137,16 @@ class PlayState extends MusicBeatState
 		if (curBeat % dad.danceEveryNumBeats == 0 && dad.animation.curAnim != null && !dad.animation.curAnim.name.startsWith('sing') && !dad.stunned)
 		{
 			dad.dance();
+		}
+		if (SONG.song == 'Team Fucked' && curBeat % dad2.danceEveryNumBeats == 0 && dad2.animation.curAnim != null && !dad2.animation.curAnim.name.startsWith('sing') && !dad2.stunned)
+		{
+			dad2.dance();
+				
+				
+		}
+		if (SONG.song == 'Team Fucked' && curBeat % dad3.danceEveryNumBeats == 0 && dad3.animation.curAnim != null && !dad3.animation.curAnim.name.startsWith('sing') && !dad3.stunned)
+		{
+			dad3.dance();	
 		}
 
 		switch (curStage)

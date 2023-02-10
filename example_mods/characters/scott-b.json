@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				235,
+				-1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "scott Sing Note LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				-110
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "scott Sing Note DOWN0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				100
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "scott Sing Note UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				89,
+				3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "scott Sing Note RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "scott idle dance0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BsideScott",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "scott-b",
+	"flip_x": false,
+	"healthbar_colors": [
+		
+255, 105, 105
+
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

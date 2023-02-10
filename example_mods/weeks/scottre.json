@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Stupid Nintendo Games", "scott", [3, 102, 252]],
+		["Why Dont You Play Them", "scott", [3, 102, 252]],
+		["Breakout", "scott-angry", [3, 102, 252]],
+		["Closing In", "scott-nerv", [3, 102, 252]]
+	],
+
+	"weekCharacters": [
+		"scott",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "gameroom",
+
+	"storyName": "Hey All!",
+	"weekBefore": "scott",
+	"weekName": "Week W",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

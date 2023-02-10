@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyBop.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boy Bop0000" x="20" y="20" width="106" height="213" frameX="0" frameY="-8" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0001" x="20" y="20" width="106" height="213" frameX="0" frameY="-8" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0002" x="146" y="20" width="105" height="215" frameX="0" frameY="-6" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0003" x="146" y="20" width="105" height="215" frameX="0" frameY="-6" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0004" x="271" y="20" width="96" height="221" frameX="-6" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0005" x="271" y="20" width="96" height="221" frameX="-6" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0006" x="387" y="20" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0007" x="387" y="20" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0008" x="20" y="261" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0009" x="20" y="261" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0010" x="20" y="261" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0011" x="20" y="261" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0012" x="20" y="261" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+	<SubTexture name="Boy Bop0013" x="20" y="261" width="91" height="221" frameX="-11" frameY="0" frameWidth="106" frameHeight="221"/>
+</TextureAtlas>

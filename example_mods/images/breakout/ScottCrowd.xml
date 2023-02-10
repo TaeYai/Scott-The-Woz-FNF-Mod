@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScottCrowd.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bg Characters0000" x="20" y="20" width="2207" height="1171" frameX="0" frameY="-53" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0001" x="20" y="20" width="2207" height="1171" frameX="0" frameY="-53" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0002" x="2247" y="20" width="2183" height="1206" frameX="-11" frameY="-19" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0003" x="2247" y="20" width="2183" height="1206" frameX="-11" frameY="-19" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0004" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0005" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0006" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0007" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0008" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0009" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0010" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0011" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0012" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters0013" x="4450" y="20" width="2167" height="1226" frameX="-18" frameY="0" frameWidth="2207" frameHeight="1226"/>
+	<SubTexture name="Bg Characters Slide0000" x="6637" y="20" width="0" height="0" frameX="-858" frameY="-18" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0001" x="20" y="1266" width="3887" height="1166" frameX="0" frameY="-76" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0002" x="3927" y="1266" width="3593" height="1117" frameX="-198" frameY="-124" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0003" x="20" y="2452" width="3057" height="1108" frameX="-444" frameY="-133" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0004" x="3097" y="2452" width="2612" height="1092" frameX="-663" frameY="-149" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0005" x="5729" y="2452" width="2034" height="1244" frameX="-927" frameY="0" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0006" x="20" y="3716" width="2199" height="1203" frameX="-824" frameY="-40" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0007" x="20" y="3716" width="2199" height="1203" frameX="-824" frameY="-40" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0008" x="2239" y="3716" width="2167" height="1226" frameX="-840" frameY="-18" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0009" x="2239" y="3716" width="2167" height="1226" frameX="-840" frameY="-18" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0010" x="2239" y="3716" width="2167" height="1226" frameX="-840" frameY="-18" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0011" x="2239" y="3716" width="2167" height="1226" frameX="-840" frameY="-18" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0012" x="2239" y="3716" width="2167" height="1226" frameX="-840" frameY="-18" frameWidth="3887" frameHeight="1244"/>
+	<SubTexture name="Bg Characters Slide0013" x="2239" y="3716" width="2167" height="1226" frameX="-840" frameY="-18" frameWidth="3887" frameHeight="1244"/>
+</TextureAtlas>

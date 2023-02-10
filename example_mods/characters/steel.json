@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				-21
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Steel Wool Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				35
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Steel Wool Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-16,
+				38
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Steel Wool Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				239,
+				4
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Steel Wool Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Steel Wool Idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-80,
+				0
+			],
+			"loop": false,
+			"anim": "shot",
+			"fps": 24,
+			"name": "Steel Wool Shot0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SteelWool",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steel",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		242,
+		137
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

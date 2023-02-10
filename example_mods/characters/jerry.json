@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				185,
+				-1
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Jerry Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-45
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jerry Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-66,
+				38
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Jerry Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-21,
+				4
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Jerry Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Jerry Idle0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"anim": "punch",
+			"fps": 24,
+			"name": "Jerry Punch0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-50
+			],
+			"loop": false,
+			"anim": "hurt",
+			"fps": 24,
+			"name": "Jerry Hurt0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jerry",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jerry",
+	"flip_x": true,
+	"healthbar_colors": [
+		105,
+		51,
+		50
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

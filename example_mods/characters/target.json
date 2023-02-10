@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				15,
+				-1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TG left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				-30
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TG down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				1
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TG up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				-6
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TG right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "TG idle dance0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/target_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "target",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		65,
+		64
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

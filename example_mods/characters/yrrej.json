@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				-11
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yyreJ Left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-45
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yyreJ Down0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				38
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yyreJ Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yyreJ Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "yyreJ Idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				90
+			],
+			"fps": 24,
+			"anim": "punch",
+			"indices": [],
+			"name": "yyreJ Punch0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-110
+			],
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "yyreJ Hurt0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yyreJ",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jerry",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		51,
+		50
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

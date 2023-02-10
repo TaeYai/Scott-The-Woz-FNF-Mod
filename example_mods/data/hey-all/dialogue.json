@@ -70,7 +70,8 @@
 			"boxState": "angry",
 			"portrait": "scottprofiles",
 			"speed": 0.03,
-			"sound": ""
+			"sound": "",
+			"bg": "doctor"
 		},
 		{
 			"expression": "mic",
@@ -78,7 +79,8 @@
 			"boxState": "angry",
 			"portrait": "scottdoc",
 			"speed": 0.075,
-			"sound": ""
+			"sound": "",
+			"bg": "doctor"
 		},
 		{
 			"expression": "mic",
@@ -102,15 +104,8 @@
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.035,
-			"sound": ""
-		},
-		{
-			"expression": "zero",
-			"text": "'0'",
-			"boxState": "normal",
-			"portrait": "zero",
-			"speed": 0.0249999999999996,
-			"sound": ""
+			"sound": "",
+			"bg": "zero"
 		},
 		{
 			"expression": "showwhat",
@@ -118,7 +113,8 @@
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.0249999999999996,
-			"sound": ""
+			"sound": "",
+			"bg": "zero"
 		},
 		{
 			"expression": "showwhat",
@@ -126,7 +122,8 @@
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.0249999999999996,
-			"sound": ""
+			"sound": "",
+			"bg": "zero"
 		},
 		{
 			"expression": "showwhat",
@@ -134,7 +131,8 @@
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.0249999999999996,
-			"sound": ""
+			"sound": "",
+			"bg": "zero"
 		},
 		{
 			"expression": "showwhat",
@@ -142,7 +140,8 @@
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.0249999999999996,
-			"sound": ""
+			"sound": "",
+			"bg": "zero"
 		}
 	]
 }

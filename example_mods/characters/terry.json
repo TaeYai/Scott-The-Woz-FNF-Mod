@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-75,
+				-1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Terry left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				-10
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Terry down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				22
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Terry up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				13,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Terry right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Terry idle dance0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/terry_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "terry",
+	"flip_x": true,
+	"healthbar_colors": [
+		118,
+		141,
+		230
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

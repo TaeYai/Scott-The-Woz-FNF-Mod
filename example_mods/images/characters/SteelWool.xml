@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SteelWool.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Steel Wool Down0000" x="20" y="20" width="550" height="787" frameX="-7" frameY="-10" frameWidth="570" frameHeight="797"/>
+	<SubTexture name="Steel Wool Down0001" x="20" y="20" width="550" height="787" frameX="-7" frameY="-10" frameWidth="570" frameHeight="797"/>
+	<SubTexture name="Steel Wool Down0002" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0003" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0004" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0005" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0006" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0007" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0008" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0009" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0010" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0011" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0012" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0013" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0014" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0015" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0016" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0017" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0018" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0019" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0020" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0021" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0022" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0023" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0024" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0025" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0026" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0027" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0028" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Down0029" x="590" y="20" width="570" height="797"/>
+	<SubTexture name="Steel Wool Idle0000" x="1180" y="20" width="466" height="712" frameX="0" frameY="-32" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0001" x="1180" y="20" width="466" height="712" frameX="0" frameY="-32" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0002" x="1666" y="20" width="436" height="714" frameX="-24" frameY="-30" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0003" x="1666" y="20" width="436" height="714" frameX="-24" frameY="-30" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0004" x="2122" y="20" width="402" height="733" frameX="-44" frameY="-11" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0005" x="2122" y="20" width="402" height="733" frameX="-44" frameY="-11" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0006" x="2544" y="20" width="409" height="742" frameX="-38" frameY="-2" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0007" x="2544" y="20" width="409" height="742" frameX="-38" frameY="-2" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0008" x="2973" y="20" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0009" x="2973" y="20" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0010" x="2973" y="20" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0011" x="2973" y="20" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0012" x="2973" y="20" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0013" x="2973" y="20" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Left0000" x="3408" y="20" width="459" height="726" frameX="0" frameY="-1" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0001" x="3408" y="20" width="459" height="726" frameX="0" frameY="-1" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0002" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0003" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0004" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0005" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0006" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0007" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0008" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0009" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0010" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0011" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0012" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0013" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0014" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0015" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0016" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0017" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0018" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0019" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0020" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0021" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0022" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0023" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0024" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0025" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0026" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0027" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0028" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Left0029" x="3887" y="20" width="460" height="727" frameX="-9" frameY="0" frameWidth="469" frameHeight="727"/>
+	<SubTexture name="Steel Wool Right0000" x="4367" y="20" width="684" height="747" frameX="-6" frameY="0" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0001" x="4367" y="20" width="684" height="747" frameX="-6" frameY="0" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0002" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0003" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0004" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0005" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0006" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0007" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0008" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0009" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0010" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0011" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0012" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0013" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0014" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0015" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0016" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0017" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0018" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0019" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0020" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0021" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0022" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0023" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0024" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0025" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0026" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0027" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0028" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Right0029" x="5071" y="20" width="684" height="740" frameX="0" frameY="-7" frameWidth="690" frameHeight="747"/>
+	<SubTexture name="Steel Wool Shot0000" x="5775" y="20" width="535" height="744" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0001" x="5775" y="20" width="535" height="744" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0002" x="6330" y="20" width="996" height="741" frameX="0" frameY="-3" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0003" x="6330" y="20" width="996" height="741" frameX="0" frameY="-3" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0004" x="20" y="837" width="1345" height="744" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0005" x="20" y="837" width="1345" height="744" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0006" x="1385" y="837" width="1560" height="755" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0007" x="1385" y="837" width="1560" height="755" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0008" x="2965" y="837" width="1596" height="777" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0009" x="2965" y="837" width="1596" height="777" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0010" x="4581" y="837" width="1603" height="763" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0011" x="4581" y="837" width="1603" height="763" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0012" x="6204" y="837" width="1610" height="757" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0013" x="6204" y="837" width="1610" height="757" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0014" x="20" y="1634" width="1627" height="772" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0015" x="20" y="1634" width="1627" height="772" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0016" x="1667" y="1634" width="1628" height="787" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0017" x="1667" y="1634" width="1628" height="787" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0018" x="3315" y="1634" width="1631" height="789" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0019" x="3315" y="1634" width="1631" height="789" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0020" x="4966" y="1634" width="1634" height="790" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0021" x="4966" y="1634" width="1634" height="790" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0022" x="20" y="2444" width="1642" height="798" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0023" x="20" y="2444" width="1642" height="798" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0024" x="1682" y="2444" width="1654" height="800" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0025" x="1682" y="2444" width="1654" height="800" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0026" x="1682" y="2444" width="1654" height="800" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0027" x="1682" y="2444" width="1654" height="800" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0028" x="3356" y="2444" width="441" height="744" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Shot0029" x="3356" y="2444" width="441" height="744" frameX="-1" frameY="0" frameWidth="1655" frameHeight="800"/>
+	<SubTexture name="Steel Wool Up0000" x="3817" y="2444" width="349" height="786" frameX="-9" frameY="0" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0001" x="3817" y="2444" width="349" height="786" frameX="-9" frameY="0" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0002" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0003" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0004" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0005" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0006" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0007" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0008" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0009" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0010" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0011" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0012" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0013" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0014" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0015" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0016" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0017" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0018" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0019" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0020" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0021" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0022" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0023" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0024" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0025" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0026" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0027" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0028" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+	<SubTexture name="Steel Wool Up0029" x="4186" y="2444" width="371" height="778" frameX="0" frameY="-8" frameWidth="371" frameHeight="786"/>
+</TextureAtlas>

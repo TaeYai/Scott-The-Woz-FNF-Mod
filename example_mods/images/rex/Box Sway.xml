@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Box Sway.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Box Sway0000" x="20" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0001" x="20" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0002" x="20" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0003" x="20" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0004" x="20" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0005" x="20" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0006" x="20" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0007" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0008" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0009" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0010" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0011" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0012" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0013" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0014" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0015" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0016" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0017" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0018" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0019" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0020" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0021" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0022" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0023" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0024" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0025" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0026" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0027" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0028" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0029" x="1076" y="20" width="244" height="495" frameX="0" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0030" x="1076" y="20" width="244" height="495" frameX="0" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0031" x="1076" y="20" width="244" height="495" frameX="0" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0032" x="1076" y="20" width="244" height="495" frameX="0" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0033" x="1076" y="20" width="244" height="495" frameX="0" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0034" x="1076" y="20" width="244" height="495" frameX="0" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0035" x="1076" y="20" width="244" height="495" frameX="0" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0036" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0037" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0038" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0039" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0040" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0041" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0042" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0043" x="812" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0044" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0045" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0046" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0047" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0048" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0049" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0050" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0051" x="548" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0052" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0053" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0054" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0055" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0056" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0057" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0058" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+	<SubTexture name="Box Sway0059" x="284" y="20" width="244" height="495" frameX="-2" frameY="0" frameWidth="246" frameHeight="495"/>
+</TextureAtlas>

@@ -1,0 +1,76 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rex Left0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-55
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rex DOwn0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				204,
+				218
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rex Up0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-6
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rex Right0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rex Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rex",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rex",
+	"flip_x": false,
+	"healthbar_colors": [
+		158, 0, 0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

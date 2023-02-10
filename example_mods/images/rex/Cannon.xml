@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cannon.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cannon Still0000" x="20" y="20" width="450" height="357"/>
+	<SubTexture name="Canon Shot0000" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0001" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0002" x="490" y="20" width="420" height="341" frameX="0" frameY="-1132" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0003" x="490" y="20" width="420" height="341" frameX="0" frameY="-1132" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0004" x="930" y="20" width="383" height="325" frameX="0" frameY="-1148" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0005" x="930" y="20" width="383" height="325" frameX="0" frameY="-1148" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0006" x="930" y="20" width="383" height="325" frameX="0" frameY="-1148" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0007" x="930" y="20" width="383" height="325" frameX="0" frameY="-1148" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0008" x="930" y="20" width="383" height="325" frameX="0" frameY="-1148" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0009" x="1333" y="20" width="707" height="477" frameX="0" frameY="-996" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0010" x="2060" y="20" width="1008" height="666" frameX="0" frameY="-807" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0011" x="3088" y="20" width="1303" height="853" frameX="0" frameY="-620" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0012" x="4411" y="20" width="1614" height="1073" frameX="0" frameY="-400" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0013" x="6045" y="20" width="1934" height="1288" frameX="0" frameY="-185" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0014" x="20" y="1328" width="2233" height="1473"/>
+	<SubTexture name="Canon Shot0015" x="2273" y="1328" width="600" height="481" frameX="0" frameY="-992" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0016" x="2893" y="1328" width="620" height="491" frameX="0" frameY="-982" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0017" x="2893" y="1328" width="620" height="491" frameX="0" frameY="-982" frameWidth="2233" frameHeight="1473"/>
+	<SubTexture name="Canon Shot0018" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0019" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0020" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0021" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0022" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0023" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+	<SubTexture name="Canon Shot0024" x="20" y="20" width="450" height="357" frameX="0" frameY="-1116" frameWidth="450" frameHeight="357"/>
+</TextureAtlas>

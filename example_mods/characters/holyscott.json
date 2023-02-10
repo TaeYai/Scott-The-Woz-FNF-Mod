@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Scott Left0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Scott Down0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				3
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Scott Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				1
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Scott Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Scott Idle0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HolyFuckScottTheWoz",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "holy-scott",
+	"flip_x": false,
+	"healthbar_colors": [
+		92,
+		114,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

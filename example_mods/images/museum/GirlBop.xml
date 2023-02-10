@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GirlBop.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Girl Bop0000" x="20" y="20" width="78" height="165" frameX="0" frameY="-8" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0001" x="20" y="20" width="78" height="165" frameX="0" frameY="-8" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0002" x="118" y="20" width="75" height="166" frameX="-1" frameY="-7" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0003" x="118" y="20" width="75" height="166" frameX="-1" frameY="-7" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0004" x="213" y="20" width="70" height="169" frameX="-5" frameY="-4" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0005" x="213" y="20" width="70" height="169" frameX="-5" frameY="-4" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0006" x="303" y="20" width="71" height="172" frameX="-8" frameY="-1" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0007" x="303" y="20" width="71" height="172" frameX="-8" frameY="-1" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0008" x="394" y="20" width="71" height="173" frameX="-9" frameY="0" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0009" x="394" y="20" width="71" height="173" frameX="-9" frameY="0" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0010" x="394" y="20" width="71" height="173" frameX="-9" frameY="0" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0011" x="394" y="20" width="71" height="173" frameX="-9" frameY="0" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0012" x="394" y="20" width="71" height="173" frameX="-9" frameY="0" frameWidth="80" frameHeight="173"/>
+	<SubTexture name="Girl Bop0013" x="394" y="20" width="71" height="173" frameX="-9" frameY="0" frameWidth="80" frameHeight="173"/>
+</TextureAtlas>

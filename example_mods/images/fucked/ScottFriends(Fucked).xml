@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScottFriends(Fucked).png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="All Friends0000" x="20" y="20" width="645" height="819" frameX="0" frameY="-26" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0001" x="20" y="20" width="645" height="819" frameX="0" frameY="-26" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0002" x="685" y="20" width="637" height="817" frameX="-5" frameY="-28" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0003" x="685" y="20" width="637" height="817" frameX="-5" frameY="-28" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0004" x="1342" y="20" width="633" height="832" frameX="-9" frameY="-13" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0005" x="1342" y="20" width="633" height="832" frameX="-9" frameY="-13" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0006" x="20" y="872" width="633" height="838" frameX="-9" frameY="-7" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0007" x="20" y="872" width="633" height="838" frameX="-9" frameY="-7" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0008" x="673" y="872" width="633" height="845" frameX="-9" frameY="0" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0009" x="673" y="872" width="633" height="845" frameX="-9" frameY="0" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0010" x="673" y="872" width="633" height="845" frameX="-9" frameY="0" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0011" x="673" y="872" width="633" height="845" frameX="-9" frameY="0" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0012" x="673" y="872" width="633" height="845" frameX="-9" frameY="0" frameWidth="645" frameHeight="845"/>
+	<SubTexture name="All Friends0013" x="673" y="872" width="633" height="845" frameX="-9" frameY="0" frameWidth="645" frameHeight="845"/>
+</TextureAtlas>

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HolyFuckScottTheWoz.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scott Down0000" x="20" y="20" width="187" height="301"/>
+	<SubTexture name="Scott Down0001" x="20" y="20" width="187" height="301"/>
+	<SubTexture name="Scott Down0002" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0003" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0004" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0005" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0006" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0007" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0008" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0009" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0010" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0011" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0012" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0013" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0014" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0015" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0016" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0017" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0018" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0019" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0020" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0021" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0022" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0023" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0024" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0025" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0026" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0027" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0028" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Down0029" x="227" y="20" width="186" height="301" frameX="-1" frameY="0" frameWidth="187" frameHeight="301"/>
+	<SubTexture name="Scott Idle0000" x="433" y="20" width="187" height="301" frameX="0" frameY="-5" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0001" x="433" y="20" width="187" height="301" frameX="0" frameY="-5" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0002" x="640" y="20" width="186" height="301" frameX="-1" frameY="-5" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0003" x="640" y="20" width="186" height="301" frameX="-1" frameY="-5" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0004" x="846" y="20" width="185" height="302" frameX="-2" frameY="-4" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0005" x="846" y="20" width="185" height="302" frameX="-2" frameY="-4" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0006" x="1051" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0007" x="1051" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0008" x="1256" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0009" x="1256" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0010" x="1256" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0011" x="1256" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0012" x="1256" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Idle0013" x="1256" y="20" width="185" height="306" frameX="-2" frameY="0" frameWidth="187" frameHeight="306"/>
+	<SubTexture name="Scott Left0000" x="1461" y="20" width="186" height="303" frameX="0" frameY="-2" frameWidth="186" frameHeight="305"/>
+	<SubTexture name="Scott Left0001" x="1461" y="20" width="186" height="303" frameX="0" frameY="-2" frameWidth="186" frameHeight="305"/>
+	<SubTexture name="Scott Left0002" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0003" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0004" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0005" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0006" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0007" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0008" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0009" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0010" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0011" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0012" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0013" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0014" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0015" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0016" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0017" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0018" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0019" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0020" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0021" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0022" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0023" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0024" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0025" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0026" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0027" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0028" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Left0029" x="1667" y="20" width="186" height="305"/>
+	<SubTexture name="Scott Right0000" x="20" y="346" width="183" height="307" frameX="-1" frameY="0" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0001" x="20" y="346" width="183" height="307" frameX="-1" frameY="0" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0002" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0003" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0004" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0005" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0006" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0007" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0008" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0009" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0010" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0011" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0012" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0013" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0014" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0015" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0016" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0017" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0018" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0019" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0020" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0021" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0022" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0023" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0024" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0025" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0026" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0027" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0028" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Right0029" x="223" y="346" width="184" height="306" frameX="0" frameY="-1" frameWidth="184" frameHeight="307"/>
+	<SubTexture name="Scott Up0000" x="427" y="346" width="182" height="309" frameX="-1" frameY="0" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0001" x="427" y="346" width="182" height="309" frameX="-1" frameY="0" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0002" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0003" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0004" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0005" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0006" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0007" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0008" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0009" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0010" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0011" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0012" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0013" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0014" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0015" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0016" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0017" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0018" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0019" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0020" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0021" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0022" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0023" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0024" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0025" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0026" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0027" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0028" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+	<SubTexture name="Scott Up0029" x="629" y="346" width="183" height="307" frameX="0" frameY="-2" frameWidth="183" frameHeight="309"/>
+</TextureAtlas>

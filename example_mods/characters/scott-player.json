@@ -1,0 +1,199 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angscott idle dance0"
+		},
+		{
+			"offsets": [
+				-21,
+				293
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angscott Sing Note RIGHT0"
+		},
+		{
+			"offsets": [
+				-60,
+				179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angscott Sing Note DOWN0"
+		},
+		{
+			"offsets": [
+				-96,
+				317
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angscott Sing Note UP0"
+		},
+		{
+			"offsets": [
+				-78,
+				292
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angscott Sing Note LEFT0"
+		},
+		{
+			"offsets": [
+				-14,
+				294
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "scott dodge Note LEFT0"
+		},
+		{
+			"offsets": [
+				-86,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "scott dodge Note UP0"
+		},
+		{
+			"offsets": [
+				-94,
+				318
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "scott dodge Note DOWN0"
+		},
+		{
+			"offsets": [
+				-66,
+				291
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "scott dodge Note RIGHT0"
+		},
+		{
+			"offsets": [
+				-23,
+				299
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "scott miss note RIGHT0"
+		},
+		{
+			"offsets": [
+				-85,
+				181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "scott miss note DOWN0"
+		},
+		{
+			"offsets": [
+				-96,
+				327
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "scott miss note UP0"
+		},
+		{
+			"offsets": [
+				-84,
+				299
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "scott miss note LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				942,
+				920
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Scott Dies0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				601,
+				540
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Scott Dead0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				536,
+				564
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Scott Dead0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PlayerScott",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "scott",
+	"flip_x": false,
+	"healthbar_colors": [
+		3,
+		102,
+		252
+	],
+	"camera_position": [
+		640,
+		-500
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
