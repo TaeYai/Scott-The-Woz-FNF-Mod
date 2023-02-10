@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1122,
+				920
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Scott Dies0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				777,
+				732
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Scott Dead0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				767,
+				730
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Scott Dead0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dead-scott",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "scott",
+	"flip_x": false,
+	"healthbar_colors": [
+		3,
+		102,
+		20
+	],
+	"camera_position": [
+		370,
+		-630
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

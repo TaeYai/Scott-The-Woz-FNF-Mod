@@ -9,11 +9,15 @@ function onCreate()
         scaleObject('bg',0.8,0.8)
     end
 
-    if songName == 'Strategy Guide' then
+    if songName == 'Strategy Guide' or songName == 'Why Dont You Play Them' then
         makeAnimatedLuaSprite('homie','scottroom/ScottFriendsVegans',300,120)
         addAnimationByPrefix('homie','idle','Vegans0',24,false)
         addLuaSprite('homie')
-    elseif songName == 'Breakout Keoni' then
+    elseif songName == 'Breakout Keoni' or songName == 'Breakout' then
+        makeAnimatedLuaSprite('homie','scottroom/ScottFriends',-100,120)
+        addAnimationByPrefix('homie','idle','All Friends0',24,false)
+        addLuaSprite('homie')
+    elseif songName == 'Borderless' then
         makeAnimatedLuaSprite('homie','scottroom/ScottFriends',-100,120)
         addAnimationByPrefix('homie','idle','All Friends0',24,false)
         addLuaSprite('homie')
@@ -48,7 +52,7 @@ function onCreate()
         setProperty('dadGroup.y',370)
 
 
-
+        setProperty('opponentCameraOffset[1]', -20)
         setProperty('opponentCameraOffset[0]', 500)
     end
 

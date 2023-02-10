@@ -24,6 +24,12 @@ function onCreate()
 	setProperty('bgdim.visible', false); -- only thunderstorm uses it
 	addLuaSprite('bgdim', true);
 	setObjectOrder('bgdim', getObjectOrder('boyfriend') + 1)
+
+	makeLuaSprite('border', 'scottroom/Border',0,-5)
+    scaleObject('border',0.99,0.99)
+    setObjectCamera('border','other')
+    addLuaSprite('border',true)
+	
 end
 
 local bgDim = false;

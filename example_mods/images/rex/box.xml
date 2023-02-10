@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="box.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tween 80000" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80001" x="2644" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80002" x="2644" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80003" x="2644" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80004" x="2644" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80005" x="2644" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80006" x="2644" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80007" x="2644" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80008" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80009" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80010" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80011" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80012" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80013" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80014" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80015" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80016" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80017" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80018" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80019" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80020" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80021" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80022" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80023" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80024" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80025" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80026" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80027" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80028" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80029" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80030" x="2644" y="3697" width="2634" height="3687" frameX="0" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80031" x="2644" y="3697" width="2634" height="3687" frameX="0" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80032" x="2644" y="3697" width="2634" height="3687" frameX="0" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80033" x="2644" y="3697" width="2634" height="3687" frameX="0" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80034" x="2644" y="3697" width="2634" height="3687" frameX="0" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80035" x="2644" y="3697" width="2634" height="3687" frameX="0" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80036" x="2644" y="3697" width="2634" height="3687" frameX="0" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80037" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80038" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80039" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80040" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80041" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80042" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80043" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80044" x="5" y="3697" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80045" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80046" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80047" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80048" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80049" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80050" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80051" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80052" x="5283" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80053" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+	<SubTexture name="Tween 80054" x="5" y="5" width="2634" height="3687" frameX="-2" frameY="0" frameWidth="2636" frameHeight="3687"/>
+</TextureAtlas>

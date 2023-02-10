@@ -1,6 +1,6 @@
 function onCreate() 
     makeLuaSprite('slideborder', 'empty', 0, 0)
-	makeGraphic('slideborder', 1280, 720, '0349fc')
+	makeGraphic('slideborder', 1280, 720, '324bf4')
 	setObjectCamera('slideborder', 'other')
 	addLuaSprite('slideborder', true)
     setProperty('slideborder.alpha',1)

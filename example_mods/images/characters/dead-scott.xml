@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dead-scott.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Scott Dead0000" x="5" y="5" width="1759" height="1157"/>
+	<SubTexture name="Scott Dies0000" x="1769" y="5" width="2049" height="1296" frameX="-156" frameY="-102" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0001" x="1769" y="5" width="2049" height="1296" frameX="-156" frameY="-102" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0002" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0003" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0004" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0005" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0006" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0007" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0008" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0009" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0010" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0011" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0012" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0013" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0014" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0015" x="3823" y="5" width="2324" height="1468" frameX="-4" frameY="0" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0016" x="5" y="1478" width="2139" height="1340" frameX="0" frameY="-49" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0017" x="5" y="1478" width="2139" height="1340" frameX="0" frameY="-49" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0018" x="2149" y="1478" width="1621" height="1021" frameX="-291" frameY="-247" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0019" x="2149" y="1478" width="1621" height="1021" frameX="-291" frameY="-247" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0020" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0021" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0022" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0023" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0024" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0025" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0026" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0027" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0028" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0029" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0030" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0031" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0032" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0033" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0034" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0035" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0036" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0037" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0038" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0039" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0040" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0041" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+	<SubTexture name="Scott Dies0042" x="3775" y="1478" width="1938" height="1309" frameX="-45" frameY="-38" frameWidth="2328" frameHeight="1468"/>
+</TextureAtlas>

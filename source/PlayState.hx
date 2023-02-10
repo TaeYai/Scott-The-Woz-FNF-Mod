@@ -336,6 +336,10 @@ class PlayState extends MusicBeatState
 	public var curCamPosX:Float = 0;
 	public var curCamPosY:Float = 0;
 
+	//Rex
+	public var canon:FlxSprite;
+	public var canon2:FlxSprite;
+
 	override public function create()
 	{
 		//trace('Playback Rate: ' + playbackRate);
@@ -843,7 +847,44 @@ class PlayState extends MusicBeatState
 				if(!ClientPrefs.lowQuality) foregroundSprites.add(new BGSprite('tank4', 1300, 900, 1.5, 1.5, ['fg']));
 				foregroundSprites.add(new BGSprite('tank5', 1620, 700, 1.5, 1.5, ['fg']));
 				if(!ClientPrefs.lowQuality) foregroundSprites.add(new BGSprite('tank3', 1300, 1200, 3.5, 2.5, ['fg']));
-		}
+				
+				case 'rex':
+					var bg:BGSprite = new BGSprite('rex/BC1', -400, -400);
+					add(bg);
+
+					var sky:BGSprite = new BGSprite('rex/BC2', -400, -400);
+					add(sky);
+
+					var ground:BGSprite = new BGSprite('rex/BC3', -400, -400);
+					add(ground);
+
+
+
+					var ground2:BGSprite = new BGSprite('rex/BC4', -400, -400);
+					add(ground2);
+
+
+					var ground3:BGSprite = new BGSprite('rex/BC5', -400, -400);
+					add(ground3);
+
+					
+					//var canon:BGSprite = new BGSprite('rex/Cannon', 100, -350, 1, 1, ['Canon Shot0'], true);
+					//add(canon);
+
+					canon = new FlxSprite(100, -350);
+					canon.frames = Paths.getSparrowAtlas('rex/Cannon');
+					canon.animation.addByPrefix('shot', 'Canon Shot0', 24, false);
+					canon.animation.addByIndices('idle', 'Canon Shot0',[0],"", 24, false);
+					add(canon);
+
+					canon2 = new FlxSprite(100, -350);
+					canon2.frames = Paths.getSparrowAtlas('rex/Cannon');
+					canon2.animation.addByPrefix('shot', 'Canon Shot0', 24, false);
+					canon2.animation.addByIndices('idle', 'Canon Shot0',[0],"", 24, false);
+					canon2.flipX = true;
+					add(canon2);
+		
+			}
 
 		switch(Paths.formatToSongPath(SONG.song))
 		{
@@ -5203,6 +5244,7 @@ class PlayState extends MusicBeatState
 		{
 			lightningStrikeShit();
 		}
+
 		lastBeatHit = curBeat;
 
 		setOnLuas('curBeat', curBeat); //DAWGG?????
