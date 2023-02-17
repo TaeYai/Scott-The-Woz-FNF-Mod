@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <TextureAtlas imagePath="gex.png">
+<SubTexture name="gex down0000" x="759" y="1947" width="783" height="500" frameX="-68" frameY="-286" frameWidth="900" frameHeight="900" />
+<SubTexture name="gex down0001" x="0" y="1947" width="759" height="511" frameX="-78" frameY="-275" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex idle0000" x="1321" y="1328" width="644" height="607" frameX="-86" frameY="-177" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex idle0001" x="674" y="1328" width="647" height="616" frameX="-88" frameY="-168" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex idle0002" x="1840" y="0" width="643" height="624" frameX="-102" frameY="-159" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex idle0003" x="0" y="700" width="654" height="628" frameX="-101" frameY="-155" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex idle0004" x="1189" y="0" width="651" height="629" frameX="-101" frameY="-154" frameWidth="900" frameHeight="900" />
-<SubTexture name="gex down0000" x="759" y="1947" width="783" height="497" frameX="-68" frameY="-289" frameWidth="900" frameHeight="900" />
-<SubTexture name="gex down0001" x="0" y="1947" width="759" height="511" frameX="-78" frameY="-275" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex left0000" x="2483" y="0" width="548" height="537" frameX="-58" frameY="-236" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex left0001" x="1840" y="624" width="542" height="538" frameX="-75" frameY="-236" frameWidth="900" frameHeight="900" />
 <SubTexture name="gex right0000" x="0" y="1328" width="674" height="619" frameX="-181" frameY="-165" frameWidth="900" frameHeight="900" />

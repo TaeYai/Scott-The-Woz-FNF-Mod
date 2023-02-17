@@ -6,7 +6,7 @@
 				0
 			],
 			"loop": false,
-			"fps": 24,
+			"fps": 12,
 			"anim": "idle",
 			"indices": [],
 			"name": "gex idle"

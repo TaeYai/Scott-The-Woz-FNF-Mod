@@ -1,6 +1,6 @@
 function onCreate()
     setPropertyFromClass('GameOverSubstate', 'characterName', 'scott-dead');
-    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'dadgameover');
+    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'gameoverscott');
 end
 function onGameOverStart()
     runHaxeCode("FlxG.camera.zoom = 1.2;")

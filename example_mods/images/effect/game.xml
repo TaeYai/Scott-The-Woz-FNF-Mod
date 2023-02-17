@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="game.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="border0000" x="5" y="5" width="1319" height="759"/>
+	<SubTexture name="border0001" x="5" y="5" width="1319" height="759"/>
+	<SubTexture name="border0002" x="5" y="5" width="1319" height="759"/>
+	<SubTexture name="border0003" x="5" y="5" width="1319" height="759"/>
+	<SubTexture name="border0004" x="1329" y="5" width="1319" height="759"/>
+	<SubTexture name="border0005" x="1329" y="5" width="1319" height="759"/>
+	<SubTexture name="border0006" x="1329" y="5" width="1319" height="759"/>
+	<SubTexture name="border0007" x="1329" y="5" width="1319" height="759"/>
+	<SubTexture name="border0008" x="1329" y="5" width="1319" height="759"/>
+	<SubTexture name="border0009" x="2653" y="5" width="1319" height="759"/>
+	<SubTexture name="border0010" x="2653" y="5" width="1319" height="759"/>
+	<SubTexture name="border0011" x="2653" y="5" width="1319" height="759"/>
+	<SubTexture name="border0012" x="2653" y="5" width="1319" height="759"/>
+	<SubTexture name="border0013" x="2653" y="5" width="1319" height="759"/>
+	<SubTexture name="border0014" x="2653" y="5" width="1319" height="759"/>
+	<SubTexture name="close0000" x="5" y="769" width="1283" height="728"/>
+	<SubTexture name="cyan0000" x="1293" y="769" width="1425" height="727"/>
+	<SubTexture name="spike0000" x="2723" y="769" width="1353" height="832"/>
+	<SubTexture name="spike0001" x="2723" y="769" width="1353" height="832"/>
+	<SubTexture name="spike0002" x="2723" y="769" width="1353" height="832"/>
+	<SubTexture name="spike0003" x="2723" y="769" width="1353" height="832"/>
+	<SubTexture name="spike0004" x="5" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0005" x="5" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0006" x="5" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0007" x="5" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0008" x="5" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0009" x="1363" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0010" x="1363" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0011" x="1363" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0012" x="1363" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0013" x="1363" y="1606" width="1353" height="832"/>
+	<SubTexture name="spike0014" x="1363" y="1606" width="1353" height="832"/>
+	<SubTexture name="yellow0000" x="2721" y="1606" width="1333" height="787"/>
+</TextureAtlas>
