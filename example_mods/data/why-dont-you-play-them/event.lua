@@ -56,6 +56,7 @@ function onCreatePost()
 end
 
 function onSongStart()
+
     camcontrol(700,600)
 
     noteTweenX('slide5',0,92,0.6,'expoout')
@@ -622,9 +623,9 @@ function onStepHit()
             noteTweenY('slide3',3,770,0.3)
         end
         camcontrol(900,600)
-        doTweenY('bfmove','boyfriend',310,0.5,'expoout')
-        doTweenY('dadmove','dad',460,0.5,'expoout')
-        doTweenX('dadmove2','dad',100,0.5,'expoout')
+        doTweenY('bfmove','boyfriend',260,0.5,'expoout')
+        doTweenY('dadmove','dad',360,0.5,'expoout')
+        doTweenX('dadmove2','dad',320,0.5,'expoout')
     end
 
     if curStep == 736 then
