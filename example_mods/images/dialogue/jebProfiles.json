@@ -1,89 +1,102 @@
 {
-	"dialogue_pos": "left",
 	"position": [
 		0,
 		50
 	],
+	"dialogue_pos": "left",
 	"scale": 1.25,
+	"image": "JebProfiles",
 	"animations": [
 		{
-			"loop_name": "JebProfGun0",
-			"idle_offsets": [
+			"loop_offsets": [
 				-150,
 				0
 			],
-			"idle_name": "JebProfGun0025",
 			"anim": "gun",
-			"loop_offsets": [
-				-150,
-				0
-			]
-		},
-		{
-			"loop_name": "JebProfGunFast0",
 			"idle_offsets": [
 				-150,
 				0
 			],
-			"idle_name": "JebProfGunFast0013",
+			"loop_name": "JebProfGun0",
+			"idle_name": "JebProfGun0025"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				0
+			],
 			"anim": "gunfast",
-			"loop_offsets": [
-				-150,
-				0
-			]
-		},
-		{
-			"loop_name": "JebProfGunStill0",
 			"idle_offsets": [
 				-150,
 				0
 			],
-			"idle_name": "JebProfGunStill0",
+			"loop_name": "JebProfGunFast0",
+			"idle_name": "JebProfGunFast0013"
+		},
+		{
+			"loop_offsets": [
+				-153,
+				-2
+			],
 			"anim": "gunstill",
+			"idle_offsets": [
+				-153,
+				-2
+			],
+			"loop_name": "JebProfGunStill0",
+			"idle_name": "JebProfGunStill0"
+		},
+		{
 			"loop_offsets": [
 				-150,
 				0
-			]
-		},
-		{
-			"loop_name": "JebProfImpatient0",
-			"idle_offsets": [
-				-150,
-				0
 			],
-			"idle_name": "JebProfImpatient0",
 			"anim": "impatient",
+			"idle_offsets": [
+				-153,
+				-2
+			],
+			"loop_name": "JebProfImpatient0",
+			"idle_name": "JebProfImpatient0"
+		},
+		{
 			"loop_offsets": [
 				-150,
 				0
-			]
-		},
-		{
-			"loop_name": "JebProfNeutral0",
-			"idle_offsets": [
-				-150,
-				0
 			],
-			"idle_name": "JebProfNeutral0",
 			"anim": "neutral",
-			"loop_offsets": [
-				-150,
-				0
-			]
+			"idle_offsets": [
+				-153,
+				-2
+			],
+			"loop_name": "JebProfNeutral0",
+			"idle_name": "JebProfNeutral0"
 		},
 		{
-			"loop_name": "JebProfPoint0",
-			"idle_offsets": [
+			"loop_offsets": [
 				-150,
 				0
 			],
-			"idle_name": "JebProfPoint0",
 			"anim": "point",
+			"idle_offsets": [
+				-153,
+				-2
+			],
+			"loop_name": "JebProfPoint0",
+			"idle_name": "JebProfPoint0"
+		},
+		{
+			"loop_name": "JebProfWave0",
+			"idle_offsets": [
+				-153,
+				-2
+			],
+			"idle_name": "JebProfWave0",
+			"anim": "wave",
 			"loop_offsets": [
-				-150,
-				0
+				-153,
+				-2
 			]
 		}
-	],
-	"image": "JebProfiles"
+	]
 }

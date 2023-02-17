@@ -2,6 +2,7 @@
 <TextureAtlas imagePath="BFProfiles.png">
 	<!-- Created with Adobe Animate version 20.0.3.25487 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BfProf0000" x="20" y="20" width="408" height="413"/>
-	<SubTexture name="BfProf Hoeny0000" x="448" y="20" width="408" height="413"/>
+	<SubTexture name="BfGfProf0000" x="20" y="20" width="492" height="493"/>
+	<SubTexture name="BfProf0000" x="532" y="20" width="408" height="413"/>
+	<SubTexture name="BfProf Hoeny0000" x="20" y="533" width="408" height="413"/>
 </TextureAtlas>

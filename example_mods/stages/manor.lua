@@ -1,5 +1,6 @@
 function onCreate()
     setPropertyFromClass('GameOverSubstate', 'characterName', 'scott-dead');
+    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'dadgameover');
     luaDebugMode = true
     makeLuaSprite('bg', 'manor/ManorBG', -100, -100);
     addLuaSprite('bg', false);

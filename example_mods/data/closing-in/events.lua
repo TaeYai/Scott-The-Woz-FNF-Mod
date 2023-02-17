@@ -21,7 +21,47 @@ end
 
 function onCreatePost()
     setProperty('camZooming', true)
+    setPropertyFromGroup('opponentStrums',0,'visible',false)
+    setPropertyFromGroup('opponentStrums',1,'visible',false)
+    setPropertyFromGroup('opponentStrums',2,'visible',false)
+    setPropertyFromGroup('opponentStrums',3,'visible',false)
+
+    setPropertyFromGroup('playerStrums',0,'visible',false)
+    setPropertyFromGroup('playerStrums',1,'visible',false)
+    setPropertyFromGroup('playerStrums',2,'visible',false)
+    setPropertyFromGroup('playerStrums',3,'visible',false)
+    setProperty('iconP1.alpha',0)
+    setProperty('iconP2.alpha',0)
+    setProperty('healthBar.alpha',0)
+    setProperty('scoreTxt.alpha',0)
+end
+
+function onSongStart()
     setProperty('camHUD.alpha',0)
+    setPropertyFromGroup('opponentStrums',0,'visible',true)
+    setPropertyFromGroup('opponentStrums',1,'visible',true)
+    setPropertyFromGroup('opponentStrums',2,'visible',true)
+    setPropertyFromGroup('opponentStrums',3,'visible',true)
+
+    setPropertyFromGroup('playerStrums',0,'visible',true)
+    setPropertyFromGroup('playerStrums',1,'visible',true)
+    setPropertyFromGroup('playerStrums',2,'visible',true)
+    setPropertyFromGroup('playerStrums',3,'visible',true)
+
+    setPropertyFromGroup('opponentStrums',0,'alpha',0)
+    setPropertyFromGroup('opponentStrums',1,'alpha',0)
+    setPropertyFromGroup('opponentStrums',2,'alpha',0)
+    setPropertyFromGroup('opponentStrums',3,'alpha',0)
+
+    setPropertyFromGroup('playerStrums',0,'alpha',0)
+    setPropertyFromGroup('playerStrums',1,'alpha',0)
+    setPropertyFromGroup('playerStrums',2,'alpha',0)
+    setPropertyFromGroup('playerStrums',3,'alpha',0)
+
+    setProperty('iconP1.alpha',1)
+    setProperty('iconP2.alpha',1)
+    setProperty('healthBar.alpha',1)
+    setProperty('scoreTxt.alpha',1)
 end
 
 function borderhit(num)
@@ -56,6 +96,18 @@ end
 
 
 function onStepHit()
+
+    if curStep == 1 then
+        setPropertyFromGroup('opponentStrums',0,'alpha',1)
+        setPropertyFromGroup('opponentStrums',1,'alpha',1)
+        setPropertyFromGroup('opponentStrums',2,'alpha',1)
+        setPropertyFromGroup('opponentStrums',3,'alpha',1)
+    
+        setPropertyFromGroup('playerStrums',0,'alpha',1)
+        setPropertyFromGroup('playerStrums',1,'alpha',1)
+        setPropertyFromGroup('playerStrums',2,'alpha',1)
+        setPropertyFromGroup('playerStrums',3,'alpha',1)
+    end
 
     if curStep == 13 then
         doTweenZoom('lolcam','camGame',0.7,4)

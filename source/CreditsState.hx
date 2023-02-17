@@ -81,6 +81,29 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Vs Scott The Woz Team'],
+			['Bino',		'bino',		'Director',								'https://twitter.com/Bluetophatguy',	'177cff'],
+			['Humbay',			'hum',			'Main Artist/Animator and Co-Director',							'https://twitter.com/HumbayNoob',		'ff6b66'],
+			['Galxe',				'gal',			'Musician',						'https://linktr.ee/galxemusic',			'5E99DF'],
+			['FireMario',				'mario',			'Musician',						'https://twitter.com/Fire_Mario_Fan',			'ffba61'],
+			['Biddle3',				'bidde',			'Musician',						'https://twitter.com/Biddy312',			'f4fc51'],
+			['Fred',				'fred',			'Musician',						'https://twitter.com/fredbear247',			'c451f5'],
+			['Polyfield',				'poly',			'Musician',						'https://twitter.com/Polyfield_',			'63db3b'],
+			['LiterallyNoOne',				'lno',			'Vocaler',						'https://twitter.com/L_No_One1',			'86abe3'],
+			['Tae(Skull)',				'taeskull',			'Musician',						'https://twitter.com/taeskull27',			'6885e3'],
+			['Tae(Yai)',				'taeyai',			'Main Programmer',						'https://twitter.com/Taeyai_',			'7081ff'],
+			['Clowfoe',				'clow',			'Programmer',						'https://twitter.com/Clowfoe',			'ff8c7d'],
+			['Orbyy',				'orb',			'Charter',						'https://twitter.com/OrbyyNew',			'66dbff'],
+			['Clodium',				'clod',			'Charter',						'https://twitter.com/ClodiumStuff',			'ff7866'],
+			['Fai',				'fai',			'Charter',						'https://www.youtube.com/watch?v=IEt8aHdxSHE',			'd6aba5'],
+			['Juno',				'juno',			'Charter',						'https://www.youtube.com/channel/UC0d7xBrZlhnDI_MugRv2Fvg',			'a5c7d6'],
+			['Turtle',				'turte',			'Charter',						'https://twitter.com/therealturtloid',			'91ff85'],
+			['Illuztriouz',				'gex',			'Artist',						'https://twitter.com/RealIlluztriouz',			'ba97c9'],	
+			[''],
+			
+			
+			
+			
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],

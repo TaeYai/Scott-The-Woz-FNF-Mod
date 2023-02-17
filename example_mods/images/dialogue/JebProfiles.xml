@@ -43,7 +43,8 @@
 	<SubTexture name="JebProfGunFast0012" x="2424" y="593" width="648" height="445" frameX="-4" frameY="-2" frameWidth="652" frameHeight="555"/>
 	<SubTexture name="JebProfGunFast0013" x="2424" y="593" width="648" height="445" frameX="-4" frameY="-2" frameWidth="652" frameHeight="555"/>
 	<SubTexture name="JebProfGunStill0000" x="3092" y="593" width="648" height="445"/>
-	<SubTexture name="JebProfImpatient0000" x="3760" y="593" width="292" height="445"/>
-	<SubTexture name="JebProfNeutral0000" x="20" y="1166" width="371" height="445"/>
-	<SubTexture name="JebProfPoint0000" x="411" y="1166" width="292" height="445"/>
+	<SubTexture name="JebProfImpatient0000" x="20" y="1166" width="497" height="553"/>
+	<SubTexture name="JebProfNeutral0000" x="537" y="1166" width="371" height="445"/>
+	<SubTexture name="JebProfPoint0000" x="928" y="1166" width="292" height="445"/>
+	<SubTexture name="JebProfWave0000" x="1240" y="1166" width="403" height="445"/>
 </TextureAtlas>

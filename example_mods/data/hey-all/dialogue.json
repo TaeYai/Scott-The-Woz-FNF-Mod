@@ -2,7 +2,7 @@
 	"dialogue": [
 		{
 			"expression": "shock",
-			"text": "Oh no! I really forgot to put up that “No Sex Allowed” on my door... Now what am I gonna do??",
+			"text": "Oh no! I really forgot to put up that “No Sex Allowed” sign on my door... Now what am I gonna do??",
 			"boxState": "angry",
 			"portrait": "scottprofiles",
 			"speed": 0.03,
@@ -10,7 +10,7 @@
 		},
 		{
 			"expression": "neutral",
-			"text": "Okay, now you might be thinking;",
+			"text": "Okay, now you might be thinking",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.035,
@@ -18,7 +18,7 @@
 		},
 		{
 			"expression": "shock",
-			"text": "\"“Oh no Scott, Friday Night Funkin”? Now you’'re NEVER\r\ngoing to be laid!\"”",
+			"text": "\"“Oh no Scott, Friday Night Funkin? Now you’re NEVER\r\ngoing to get laid!\"”",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.04,
@@ -34,23 +34,23 @@
 		},
 		{
 			"expression": "two",
-			"text": "Second of all,\r\n we’ve already had two world wars anyway;\r\nwho the hell cares if we have another one? ",
+			"text": "Second of all...\r\n what?  You think I care about dignity?",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.05,
 			"sound": ""
 		},
 		{
-			"expression": "rthr",
-			"text": "Well I did play Ride to Hell: Retribution.",
+			"expression": "show",
+			"text": "Let’s cause World War 3!!!",
 			"boxState": "normal",
-			"portrait": "scottdoc",
+			"portrait": "scottprofiles",
 			"speed": 0.075,
 			"sound": ""
 		},
 		{
 			"expression": "mic",
-			"text": "Friday Night Funkin’ is a unique twist to the whole rhythm game genre and gives a whole new approach... …",
+			"text": "Friday Night Funkin’ is a unique twist to the classic 4 arrow rhythm game genre and gives a whole new approach…",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.04,

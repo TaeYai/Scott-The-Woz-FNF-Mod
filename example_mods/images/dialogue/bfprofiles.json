@@ -1,37 +1,50 @@
 {
-	"dialogue_pos": "right",
 	"position": [
-		0,
-		50
+		50,
+		100
 	],
+	"dialogue_pos": "right",
 	"scale": 1.25,
+	"image": "BFProfiles",
 	"animations": [
 		{
-			"loop_name": "BfProf Hoeny0",
-			"idle_offsets": [
-				0,
-				0
-			],
-			"idle_name": "BfProf Hoeny0",
-			"anim": "honey",
 			"loop_offsets": [
 				0,
 				0
-			]
-		},
-		{
-			"loop_name": "BfProf0",
+			],
+			"anim": "honey",
 			"idle_offsets": [
 				0,
 				0
 			],
-			"idle_name": "BfProf0",
+			"loop_name": "BfProf Hoeny0",
+			"idle_name": "BfProf Hoeny0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
 			"anim": "idle",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BfProf0",
+			"idle_name": "BfProf0"
+		},
+		{
+			"loop_name": "BfGfProf0",
+			"idle_offsets": [
+				73,
+				70
+			],
+			"idle_name": "BfGfProf0",
+			"anim": "BfGf",
 			"loop_offsets": [
 				0,
 				0
 			]
 		}
-	],
-	"image": "BFProfiles"
+	]
 }

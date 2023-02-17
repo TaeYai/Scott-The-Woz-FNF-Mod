@@ -33,6 +33,16 @@ class ClientPrefs {
 	public static var pauseMusic:String = 'Tea Time';
 	public static var checkForUpdates:Bool = true;
 	public static var comboStacking = true;
+	//SAVE DATA STUFF
+	public static var bsideclear:Bool;
+	public static var holyclear:Bool;
+	public static var pngclear:Bool;
+	public static var sexclear:Bool;
+	public static var steelclear:Bool;
+	public static var fuckedclear:Bool;
+	public static var jerryclear:Bool;
+	public static var gexclear:Bool;
+	public static var storymodeclear:Bool;
 	public static var gameplaySettings:Map<String, Dynamic> = [
 		'scrollspeed' => 1.0,
 		'scrolltype' => 'multiplicative', 
@@ -130,7 +140,17 @@ class ClientPrefs {
 		FlxG.save.data.pauseMusic = pauseMusic;
 		FlxG.save.data.checkForUpdates = checkForUpdates;
 		FlxG.save.data.comboStacking = comboStacking;
-	
+		//SAVE DATA CHECK
+		FlxG.save.data.bsideclear = bsideclear;
+		FlxG.save.data.holyclear = holyclear;
+		FlxG.save.data.pngclear = pngclear;
+		FlxG.save.data.sexclear = sexclear;
+		FlxG.save.data.steelclear = steelclear;
+		FlxG.save.data.fuckedclear = fuckedclear;
+		FlxG.save.data.jerryclear = jerryclear;
+		FlxG.save.data.gexclear = gexclear;
+		FlxG.save.data.storymodeclear = storymodeclear;
+
 		FlxG.save.flush();
 
 		var save:FlxSave = new FlxSave();
@@ -266,6 +286,43 @@ class ClientPrefs {
 		}
 		if (FlxG.save.data.comboStacking != null)
 			comboStacking = FlxG.save.data.comboStacking;
+		//SAVEDATA CHECKMORE
+		if (FlxG.save.data.bsideclear != null)
+			{
+				bsideclear = FlxG.save.data.bsideclear;
+			}
+		if (FlxG.save.data.holyclear != null)
+			{
+				holyclear = FlxG.save.data.holyclear;
+			}
+		if (FlxG.save.data.pngclear != null)
+			{
+				pngclear = FlxG.save.data.pngclear;
+			}
+		if (FlxG.save.data.sexclear != null)
+			{
+				sexclear = FlxG.save.data.sexclear;
+			}
+		if (FlxG.save.data.steelclear != null)
+			{
+				steelclear = FlxG.save.data.steelclear;
+			}
+		if (FlxG.save.data.fuckedclear != null)
+			{
+				fuckedclear = FlxG.save.data.fuckedclear;
+			}
+		if (FlxG.save.data.jerryclear != null)
+			{
+				jerryclear = FlxG.save.data.jerryclear;
+			}
+		if (FlxG.save.data.gexclear != null)
+			{
+				gexclear = FlxG.save.data.gexclear;
+			}
+		if (FlxG.save.data.storymodeclear != null)
+			{
+				storymodeclear = FlxG.save.data.storymodeclear;
+			}
 
 		var save:FlxSave = new FlxSave();
 		save.bind('controls_v2', 'ninjamuffin99');

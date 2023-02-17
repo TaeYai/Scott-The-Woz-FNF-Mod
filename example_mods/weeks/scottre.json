@@ -13,10 +13,10 @@
 	],
 	"weekBackground": "gameroom",
 
-	"storyName": "Hey All!",
+	"storyName": "Hey All! (V1 Remasted)",
 	"weekBefore": "scott",
 	"weekName": "Week W",
-	"startUnlocked": true,
+	"startUnlocked": false,
 
 	"hideStoryMode": false,
 	"hideFreeplay": false

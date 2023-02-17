@@ -4,4 +4,36 @@
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="RexProfArrival0000" x="20" y="20" width="382" height="479"/>
 	<SubTexture name="RexProfBusy0000" x="422" y="20" width="379" height="453"/>
+	<SubTexture name="RexProfExplosuion0000" x="821" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0001" x="821" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0002" x="1540" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0003" x="1540" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0004" x="2259" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0005" x="2259" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0006" x="2259" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0007" x="2259" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0008" x="2259" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0009" x="2259" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0010" x="2259" y="20" width="699" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0011" x="2978" y="20" width="709" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0012" x="2978" y="20" width="709" height="453" frameX="-182" frameY="-182" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0013" x="20" y="519" width="843" height="483" frameX="-171" frameY="-152" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0014" x="20" y="519" width="843" height="483" frameX="-171" frameY="-152" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0015" x="883" y="519" width="980" height="673" frameX="-171" frameY="-50" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0016" x="883" y="519" width="980" height="673" frameX="-171" frameY="-50" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0017" x="1883" y="519" width="1100" height="892" frameX="-174" frameY="0" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0018" x="1883" y="519" width="1100" height="892" frameX="-174" frameY="0" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0019" x="3003" y="519" width="813" height="465" frameX="-179" frameY="-170" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0020" x="3003" y="519" width="813" height="465" frameX="-179" frameY="-170" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0021" x="20" y="1431" width="1366" height="1136" frameX="0" frameY="-63" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0022" x="20" y="1431" width="1366" height="1136" frameX="0" frameY="-63" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0023" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0024" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0025" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0026" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0027" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0028" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfExplosuion0029" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
+	<SubTexture name="RexProfGun0000" x="1968" y="1431" width="699" height="453"/>
+	<SubTexture name="RexProfGunAgro0000" x="2687" y="1431" width="699" height="453"/>
 </TextureAtlas>

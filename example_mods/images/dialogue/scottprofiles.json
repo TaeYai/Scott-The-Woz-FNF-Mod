@@ -1,375 +1,375 @@
 {
+	"dialogue_pos": "left",
 	"position": [
 		0,
 		50
 	],
-	"dialogue_pos": "left",
 	"scale": 1.25,
-	"image": "ScottProfiles",
 	"animations": [
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-154,
+				2
 			],
 			"anim": "augh",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-154,
+				2
 			],
-			"loop_name": "ScottProfAugh0",
-			"idle_name": "ScottProfAugh0"
+			"idle_name": "ScottProfAugh0",
+			"loop_name": "ScottProfAugh0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-153,
+				9
 			],
 			"anim": "blue",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-153,
+				9
 			],
-			"loop_name": "ScottProfBlue0",
-			"idle_name": "ScottProfBlue0"
+			"idle_name": "ScottProfBlue0",
+			"loop_name": "ScottProfBlue0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-162,
+				-3
 			],
 			"anim": "cringe",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-162,
+				-3
 			],
-			"loop_name": "ScottProfCringe0",
-			"idle_name": "ScottProfCringe0"
+			"idle_name": "ScottProfCringe0",
+			"loop_name": "ScottProfCringe0"
 		},
 		{
-			"loop_offsets": [
-				-150,
+			"idle_offsets": [
+				180,
 				0
 			],
 			"anim": "docmic",
-			"idle_offsets": [
-				-150,
+			"loop_offsets": [
+				180,
 				0
 			],
-			"loop_name": "ScottProfDocMic0",
-			"idle_name": "ScottProfDocMic0"
+			"idle_name": "ScottProfDocMic0",
+			"loop_name": "ScottProfDocMic0"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				-150,
 				0
 			],
 			"anim": "docshock",
-			"idle_offsets": [
-				-150,
-				0
-			],
-			"loop_name": "ScottProfDocShock0",
-			"idle_name": "ScottProfDocShock0"
-		},
-		{
 			"loop_offsets": [
 				-150,
 				0
+			],
+			"idle_name": "ScottProfDocShock0",
+			"loop_name": "ScottProfDocShock0"
+		},
+		{
+			"idle_offsets": [
+				-174,
+				-30
 			],
 			"anim": "evicted",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-174,
+				-30
 			],
-			"loop_name": "ScottProfEvicted0",
-			"idle_name": "ScottProfEvicted0"
+			"idle_name": "ScottProfEvicted0",
+			"loop_name": "ScottProfEvicted0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-151,
+				-1
 			],
 			"anim": "fucked",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-151,
+				-1
 			],
-			"loop_name": "ScottProfFucked0",
-			"idle_name": "ScottProfFucked0"
+			"idle_name": "ScottProfFucked0",
+			"loop_name": "ScottProfFucked0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-178,
+				-30
 			],
 			"anim": "help",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-178,
+				-30
 			],
-			"loop_name": "ScottProfHelp0",
-			"idle_name": "ScottProfHelp0"
+			"idle_name": "ScottProfHelp0",
+			"loop_name": "ScottProfHelp0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-169,
+				-1
 			],
 			"anim": "how",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-169,
+				-1
 			],
-			"loop_name": "ScottProfHow0",
-			"idle_name": "ScottProfHow0"
+			"idle_name": "ScottProfHow0",
+			"loop_name": "ScottProfHow0"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				-150,
-				0
+				-5
 			],
 			"anim": "idea",
-			"idle_offsets": [
-				-150,
-				0
-			],
-			"loop_name": "ScottProfIdea0",
-			"idle_name": "ScottProfIdea0"
-		},
-		{
 			"loop_offsets": [
 				-150,
+				-5
+			],
+			"idle_name": "ScottProfIdea0",
+			"loop_name": "ScottProfIdea0"
+		},
+		{
+			"idle_offsets": [
+				-166,
 				0
 			],
 			"anim": "mic",
-			"idle_offsets": [
-				-150,
+			"loop_offsets": [
+				-166,
 				0
 			],
-			"loop_name": "ScottProfMic0",
-			"idle_name": "ScottProfMic0"
+			"idle_name": "ScottProfMic0",
+			"loop_name": "ScottProfMic0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-165,
+				-2
 			],
 			"anim": "mic2",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-165,
+				-2
 			],
-			"loop_name": "ScottProfMic2",
-			"idle_name": "ScottProfMic2"
+			"idle_name": "ScottProfMic2",
+			"loop_name": "ScottProfMic2"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-165,
+				-2
 			],
 			"anim": "mictrans",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-165,
+				-2
 			],
-			"loop_name": "ScottProfMicTrans0",
-			"idle_name": "ScottProfMicTrans0"
+			"idle_name": "ScottProfMicTrans0",
+			"loop_name": "ScottProfMicTrans0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-161,
+				2
 			],
 			"anim": "neutral",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-161,
+				2
 			],
-			"loop_name": "ScottProfNeutral0",
-			"idle_name": "ScottProfNeutral0"
+			"idle_name": "ScottProfNeutral0",
+			"loop_name": "ScottProfNeutral0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-153,
+				6
 			],
 			"anim": "oh",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-153,
+				6
 			],
-			"loop_name": "ScottProfOh0",
-			"idle_name": "ScottProfOh0"
+			"idle_name": "ScottProfOh0",
+			"loop_name": "ScottProfOh0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-142,
+				-14
 			],
 			"anim": "one",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-142,
+				-14
 			],
-			"loop_name": "ScottProfOne0",
-			"idle_name": "ScottProfOne0"
+			"idle_name": "ScottProfOne0",
+			"loop_name": "ScottProfOne0"
 		},
 		{
-			"loop_offsets": [
-				-150,
+			"idle_offsets": [
+				-151,
 				0
 			],
 			"anim": "point",
-			"idle_offsets": [
-				-150,
+			"loop_offsets": [
+				-151,
 				0
 			],
-			"loop_name": "ScottProfPoint0",
-			"idle_name": "ScottProfPoint0"
+			"idle_name": "ScottProfPoint0",
+			"loop_name": "ScottProfPoint0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-148,
+				-2
 			],
 			"anim": "point2",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-148,
+				-2
 			],
-			"loop_name": "ScottProfPoint2",
-			"idle_name": "ScottProfPoint2"
+			"idle_name": "ScottProfPoint2",
+			"loop_name": "ScottProfPoint2"
 		},
 		{
-			"loop_offsets": [
-				-150,
+			"idle_offsets": [
+				52,
 				0
 			],
 			"anim": "rthr",
-			"idle_offsets": [
-				-150,
+			"loop_offsets": [
+				52,
 				0
 			],
-			"loop_name": "ScottProfRTHR0",
-			"idle_name": "ScottProfRTHR0"
+			"idle_name": "ScottProfRTHR0",
+			"loop_name": "ScottProfRTHR0"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				-150,
 				0
 			],
 			"anim": "shock",
-			"idle_offsets": [
-				-150,
-				0
-			],
-			"loop_name": "ScottProfShock0",
-			"idle_name": "ScottProfShock0"
-		},
-		{
 			"loop_offsets": [
 				-150,
 				0
+			],
+			"idle_name": "ScottProfShock0",
+			"loop_name": "ScottProfShock0"
+		},
+		{
+			"idle_offsets": [
+				-131,
+				-1
 			],
 			"anim": "show",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-131,
+				-1
 			],
-			"loop_name": "ScottProfShow0",
-			"idle_name": "ScottProfShow0"
+			"idle_name": "ScottProfShow0",
+			"loop_name": "ScottProfShow0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-131,
+				2
 			],
 			"anim": "showwhat",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-131,
+				2
 			],
-			"loop_name": "ScottProfShowWhat0",
-			"idle_name": "ScottProfShowWhat0"
+			"idle_name": "ScottProfShowWhat0",
+			"loop_name": "ScottProfShowWhat0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-50,
+				10
 			],
 			"anim": "two",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-50,
+				10
 			],
-			"loop_name": "ScottProfTwo0",
-			"idle_name": "ScottProfTwo0"
+			"idle_name": "ScottProfTwo0",
+			"loop_name": "ScottProfTwo0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-158,
+				-30
 			],
 			"anim": "uhoh",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-158,
+				-30
 			],
-			"loop_name": "ScottProfUhOh0",
-			"idle_name": "ScottProfUhOh0"
+			"idle_name": "ScottProfUhOh0",
+			"loop_name": "ScottProfUhOh0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-149,
+				-41
 			],
 			"anim": "up",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-149,
+				-41
 			],
-			"loop_name": "ScottProfUp0",
-			"idle_name": "ScottProfUp0"
+			"idle_name": "ScottProfUp0",
+			"loop_name": "ScottProfUp0"
 		},
 		{
-			"loop_offsets": [
+			"idle_offsets": [
 				-150,
-				0
+				-5
 			],
 			"anim": "vegan",
-			"idle_offsets": [
-				-150,
-				0
-			],
-			"loop_name": "ScottProfVegan0",
-			"idle_name": "ScottProfVegan0"
-		},
-		{
 			"loop_offsets": [
 				-150,
-				0
+				-5
+			],
+			"idle_name": "ScottProfVegan0",
+			"loop_name": "ScottProfVegan0"
+		},
+		{
+			"idle_offsets": [
+				-179,
+				-1
 			],
 			"anim": "wait",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-179,
+				-1
 			],
-			"loop_name": "ScottProfWait0",
-			"idle_name": "ScottProfWait0"
+			"idle_name": "ScottProfWait0",
+			"loop_name": "ScottProfWait0"
 		},
 		{
-			"loop_offsets": [
-				-150,
-				0
+			"idle_offsets": [
+				-171,
+				-4
 			],
 			"anim": "wha",
-			"idle_offsets": [
-				-150,
-				0
+			"loop_offsets": [
+				-171,
+				-4
 			],
-			"loop_name": "ScottProfWha0",
-			"idle_name": "ScottProfWha0035"
+			"idle_name": "ScottProfWha0035",
+			"loop_name": "ScottProfWha0"
 		}
-	]
+	],
+	"image": "ScottProfiles"
 }

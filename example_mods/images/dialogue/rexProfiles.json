@@ -1,37 +1,76 @@
 {
-	"dialogue_pos": "left",
 	"position": [
 		0,
 		50
 	],
+	"dialogue_pos": "left",
 	"scale": 1.25,
+	"image": "RexProfiles",
 	"animations": [
 		{
-			"loop_name": "RexProfArrival0",
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"anim": "arrival",
 			"idle_offsets": [
 				-150,
 				0
 			],
-			"idle_name": "RexProfArrival0",
-			"anim": "arrival",
+			"loop_name": "RexProfArrival0",
+			"idle_name": "RexProfArrival0"
+		},
+		{
+			"loop_offsets": [
+				-150,
+				0
+			],
+			"anim": "busy",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"loop_name": "RexProfBusy0",
+			"idle_name": "RexProfBusy0"
+		},
+		{
+			"loop_name": "RexProfGun0000",
+			"idle_offsets": [
+				-150,
+				0
+			],
+			"idle_name": "RexProfGun0000",
+			"anim": "Gun",
 			"loop_offsets": [
 				-150,
 				0
 			]
 		},
 		{
-			"loop_name": "RexProfBusy0",
+			"loop_name": "RexProfGunAgro0000",
 			"idle_offsets": [
 				-150,
 				0
 			],
-			"idle_name": "RexProfBusy0",
-			"anim": "busy",
+			"idle_name": "RexProfGunAgro0000",
+			"anim": "GunAgro",
 			"loop_offsets": [
 				-150,
 				0
 			]
+		},
+		{
+			"loop_name": "RexProfExplosuion0",
+			"idle_offsets": [
+				9,
+				159
+			],
+			"idle_name": "RexProfExplosuion29",
+			"anim": "Explosuion",
+			"loop_offsets": [
+				9,
+				159
+			]
 		}
-	],
-	"image": "RexProfiles"
+	]
 }

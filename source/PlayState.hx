@@ -1704,6 +1704,79 @@ class PlayState extends MusicBeatState
 			startCountdown();
 	}
 
+	public function startVideoEnd(name:String)
+		{
+			#if VIDEOS_ALLOWED
+			inCutscene = true;
+	
+			var filepath:String = Paths.video(name);
+			#if sys
+			if(!FileSystem.exists(filepath))
+			#else
+			if(!OpenFlAssets.exists(filepath))
+			#end
+			{
+				FlxG.log.warn('Couldnt find video file: ' + name);
+				MusicBeatState.switchState(new MainMenuState());
+				FlxG.sound.playMusic(Paths.music('freakyMenu'));
+				return;
+			}
+	
+			var video:MP4Handler = new MP4Handler();
+			video.playVideo(filepath);
+			video.finishCallback = function()
+			{
+				MusicBeatState.switchState(new MainMenuState());
+				FlxG.sound.playMusic(Paths.music('freakyMenu'));
+				return;
+			}
+			#else
+			FlxG.log.warn('Platform not supported!');
+			startAndEnd();
+			return;
+			#end
+		}
+
+	public function startVideoaftergame(name:String):Void {
+		#if VIDEOS_ALLOWED
+		inCutscene = true;
+
+		var filepath:String = Paths.video(name);
+		#if sys
+		if(!FileSystem.exists(filepath))
+		#else
+		if(!OpenFlAssets.exists(filepath))
+		#end
+		{
+			FlxG.log.warn('Couldnt find video file: ' + name);
+			storyPlaylist = ['Chastity'];
+			isStoryMode = true;
+			storyDifficulty = 2;
+			SONG = Song.loadFromJson(StringTools.replace(storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(storyPlaylist[0]," ", "-").toLowerCase());
+			campaignScore = 0;
+			LoadingState.loadAndSwitchState(new PlayState(), true);
+			return;
+		}
+
+		var video:MP4Handler = new MP4Handler();
+		video.playVideo(filepath);
+		video.finishCallback = function()
+		{
+			storyPlaylist = ['Chastity'];
+			isStoryMode = true;
+			storyDifficulty = 2;
+			SONG = Song.loadFromJson(StringTools.replace(storyPlaylist[0]," ", "-").toLowerCase() + '-hard', StringTools.replace(storyPlaylist[0]," ", "-").toLowerCase());
+			campaignScore = 0;
+			LoadingState.loadAndSwitchState(new PlayState(), true);
+			return;
+		}
+		#else
+		FlxG.log.warn('Platform not supported!');
+		startAndEnd();
+		return;
+		#end
+	}
+
 	var dialogueCount:Int = 0;
 	public var psychDialogue:DialogueBoxPsych;
 	//You don't have to add a song, just saying. You can just do "startDialogue(dialogueJson);" and it should work
@@ -4059,13 +4132,43 @@ class PlayState extends MusicBeatState
 				if (storyPlaylist.length <= 0)
 				{
 					WeekData.loadTheFirstEnabledMod();
-					FlxG.sound.playMusic(Paths.music('freakyMenu'));
 
 					cancelMusicFadeTween();
 					if(FlxTransitionableState.skipNextTransIn) {
 						CustomFadeTransition.nextCamera = null;
 					}
-					MusicBeatState.switchState(new StoryMenuState());
+					switch(SONG.song)
+					{
+						case "Final Thoughts":
+							if(!ClientPrefs.storymodeclear)
+								{
+									ClientPrefs.storymodeclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									startVideoaftergame('ScottEndSex');
+								}
+							else
+								{
+									startVideoEnd('ScottEnd');
+								}
+							FlxG.log.add(FlxG.save.data.storymodeclear);
+
+							FlxG.sound.music.stop();
+							vocals.stop();
+						case "Closing in":
+							startVideoEnd('ScottEnd');
+							FlxG.sound.music.stop();
+							vocals.stop();
+						case "Chastity":
+							MusicBeatState.switchState(new UnlockState());
+
+						
+
+						default:
+							MusicBeatState.switchState(new MainMenuState());
+							FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					}
 
 					// if ()
 					if(!ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)) {
@@ -4128,8 +4231,142 @@ class PlayState extends MusicBeatState
 				if(FlxTransitionableState.skipNextTransIn) {
 					CustomFadeTransition.nextCamera = null;
 				}
-				MusicBeatState.switchState(new FreeplayState());
-				FlxG.sound.playMusic(Paths.music('freakyMenu'));
+				switch(SONG.song)
+					{
+						case "Holy Fuck":
+							if(!ClientPrefs.holyclear)
+								{
+									ClientPrefs.holyclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									new FlxTimer().start(1, function(tmr:FlxTimer) {
+										MusicBeatState.switchState(new FreeplayState());
+									});
+								}
+							else
+								{
+									MusicBeatState.switchState(new FreeplayState());
+								}
+
+								FlxG.sound.music.stop();
+								vocals.stop();
+						case "Ziplash":
+							if(!ClientPrefs.pngclear)
+								{
+									ClientPrefs.pngclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									new FlxTimer().start(1, function(tmr:FlxTimer) {
+										MusicBeatState.switchState(new FreeplayState());
+									});
+								}
+							else
+								{
+									MusicBeatState.switchState(new FreeplayState());
+								}
+
+								FlxG.sound.music.stop();
+								vocals.stop();
+						case "Instruction Manual":
+							if(!ClientPrefs.bsideclear)
+								{
+									ClientPrefs.bsideclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									new FlxTimer().start(1, function(tmr:FlxTimer) {
+										MusicBeatState.switchState(new FreeplayState());
+									});
+								}
+							else
+								{
+									MusicBeatState.switchState(new FreeplayState());
+								}
+
+								FlxG.sound.music.stop();
+								vocals.stop();
+						case "Third Degree":
+							if(!ClientPrefs.steelclear)
+								{
+									ClientPrefs.steelclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									new FlxTimer().start(1, function(tmr:FlxTimer) {
+										MusicBeatState.switchState(new FreeplayState());
+									});
+								}
+							else
+								{
+									MusicBeatState.switchState(new FreeplayState());
+								}
+
+								FlxG.sound.music.stop();
+								vocals.stop();
+						case "Therapizer":
+							if(!ClientPrefs.jerryclear)
+								{
+									ClientPrefs.jerryclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									new FlxTimer().start(1, function(tmr:FlxTimer) {
+										MusicBeatState.switchState(new FreeplayState());
+									});
+								}
+							else
+								{
+									MusicBeatState.switchState(new FreeplayState());
+								}
+
+								FlxG.sound.music.stop();
+								vocals.stop();
+						case "Team Fucked":
+							if(!ClientPrefs.fuckedclear)
+								{
+									ClientPrefs.fuckedclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									new FlxTimer().start(1, function(tmr:FlxTimer) {
+										MusicBeatState.switchState(new FreeplayState());
+									});
+								}
+							else
+								{
+									MusicBeatState.switchState(new FreeplayState());
+								}
+
+								FlxG.sound.music.stop();
+								vocals.stop();
+						case "Dark Age":
+							if(!ClientPrefs.gexclear)
+								{
+									ClientPrefs.gexclear  = true;
+									ClientPrefs.saveSettings();
+									FlxG.save.flush();
+
+									new FlxTimer().start(1, function(tmr:FlxTimer) {
+										MusicBeatState.switchState(new FreeplayState());
+									});
+								}
+							else
+								{
+									MusicBeatState.switchState(new FreeplayState());
+								}
+
+								FlxG.sound.music.stop();
+								vocals.stop();
+
+						
+
+						default:
+							MusicBeatState.switchState(new FreeplayState());
+							FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					}
+
 				changedDifficulty = false;
 			}
 			transitioning = true;

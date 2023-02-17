@@ -46,6 +46,15 @@ class Highscore
 		return newValue / tempMult;
 	}
 
+	public static function hasSongBeenCompleted(song:String) {
+		for(diff in [0, 1, 2]) {
+			var format = Highscore.formatSong(song, diff);
+			if (Highscore.songScores[format] != null && Highscore.songScores[format] > 0)
+			return true;
+		}
+		return false;
+		}
+
 	public static function saveScore(song:String, score:Int = 0, ?diff:Int = 0, ?rating:Float = -1):Void
 	{
 		var daSong:String = formatSong(song, diff);

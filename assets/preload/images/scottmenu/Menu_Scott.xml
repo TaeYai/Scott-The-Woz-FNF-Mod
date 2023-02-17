@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Scott.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scott idle dance0000" x="20" y="20" width="477" height="688" frameX="0" frameY="-20" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0001" x="20" y="20" width="477" height="688" frameX="0" frameY="-20" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0002" x="517" y="20" width="457" height="682" frameX="-5" frameY="-26" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0003" x="517" y="20" width="457" height="682" frameX="-5" frameY="-26" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0004" x="994" y="20" width="403" height="696" frameX="-14" frameY="-12" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0005" x="994" y="20" width="403" height="696" frameX="-14" frameY="-12" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0006" x="1417" y="20" width="436" height="703" frameX="-12" frameY="-5" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0007" x="1417" y="20" width="436" height="703" frameX="-12" frameY="-5" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0008" x="20" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0009" x="20" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0010" x="20" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0011" x="20" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0012" x="20" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0013" x="20" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+</TextureAtlas>

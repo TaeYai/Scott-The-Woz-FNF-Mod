@@ -1,37 +1,37 @@
 {
+	"dialogue_pos": "right",
 	"position": [
 		0,
 		50
 	],
-	"dialogue_pos": "right",
 	"scale": 1.25,
-	"image": "TargetProfiles",
 	"animations": [
 		{
-			"loop_offsets": [
-				50,
-				0
+			"idle_offsets": [
+				180,
+				7
 			],
 			"anim": "look",
-			"idle_offsets": [
-				50,
-				0
+			"loop_offsets": [
+				180,
+				7
 			],
-			"loop_name": "TargetProfLook0",
-			"idle_name": "TargetProfLook0040"
+			"idle_name": "TargetProfLook0040",
+			"loop_name": "TargetProfLook0"
 		},
 		{
-			"loop_offsets": [
-				240,
-				0
+			"idle_offsets": [
+				-617,
+				-26
 			],
 			"anim": "read",
-			"idle_offsets": [
-				240,
-				0
+			"loop_offsets": [
+				-617,
+				-26
 			],
-			"loop_name": "TargetProfRead0",
-			"idle_name": "TargetProfRead0"
+			"idle_name": "TargetProfRead0",
+			"loop_name": "TargetProfRead0"
 		}
-	]
+	],
+	"image": "TargetProfiles"
 }

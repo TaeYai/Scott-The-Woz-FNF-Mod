@@ -29,6 +29,10 @@ function onCreatePost()
     setProperty('iconP2.alpha',0)
     setProperty('showRating',false)
     setProperty('showComboNum',false)
+    setPropertyFromGroup('opponentStrums',0,'alpha',0)
+    setPropertyFromGroup('opponentStrums',1,'alpha',0)
+    setPropertyFromGroup('opponentStrums',2,'alpha',0)
+    setPropertyFromGroup('opponentStrums',3,'alpha',0)
 end
 
 function noteMiss(membersIndex, noteData, noteType, isSustainNote)
@@ -42,21 +46,16 @@ function goodNoteHit(membersIndex, noteData, noteType, isSustainNote)
 
 end
 
+
+
 function onUpdate()
     triggerEvent('Camera Follow Pos',600,500)
-    if inGameOver then
 
-        setProperty('camFollow.x',600);
-        setProperty('camFollow.y',500);
-    end
-    setPropertyFromGroup('opponentStrums',0,'alpha',0)
-    setPropertyFromGroup('opponentStrums',1,'alpha',0)
-    setPropertyFromGroup('opponentStrums',2,'alpha',0)
-    setPropertyFromGroup('opponentStrums',3,'alpha',0)
+
 end
 
 function onGameOverStart()
-    runHaxeCode("FlxG.camera.zoom = 0.9; boyfriend.visible = false;")
+    runTimer('deadbreak', 1,0)
     makeLuaSprite('border', 'scottroom/Border',0,-5)
     scaleObject('border',0.99,0.99)
     setObjectCamera('border','other')
@@ -83,13 +82,26 @@ function onGameOverStart()
     addLuaSprite('hedead')
     setObjectCamera('hedead','game')
     playAnim('hedead','idle',true)
-
-
     setProperty('updateCamera',false)
     setProperty('camFollow.x',600);
     setProperty('camFollow.y',500)
-    setProperty('defaultCamZoom',1)
+    setProperty('defaultCamZoom',0.9)
+
 end
+
+function onTimerCompleted(t,l,ll)
+	if t == 'dadhold' then
+        triggerEvent('Play Animation','idle',0)
+	end
+
+    if t == 'deadbreak' then
+        debugPrint('BREAK!!!')
+        setProperty('hedead.alpha',0)
+        setProperty('bg.alpha',0)
+        setProperty('bg2.alpha',0)
+	end
+end
+
 
 function onMoveCamera(focus)
     if focus == 'boyfriend' then
@@ -120,10 +132,5 @@ function onEvent(name, value1,value2)
 		if value1 == '3' then
             triggerEvent('Play Animation','singRIGHT',0)
 		end
-	end
-end
-function onTimerCompleted(t,l,ll)
-	if t == 'dadhold' then
-        triggerEvent('Play Animation','idle',0)
 	end
 end

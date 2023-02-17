@@ -44,13 +44,29 @@ function onUpdate(elapsed)
   --  runHaxeCode([[game.getLuaObject("box").y += 250; 
   --  if (getLuaObject("box").y > 1500) getLuaObject("box").y = 0;]])
 end
-
+--curBeat == 4 or curBeat == 12 or curBeat == 20 or curBeat == 28 or curBeat == 36 or curBeat == 52 or curBeat == 60 or curBeat == 68 or curBeat == 76 or curBeat == 84 or curBeat == 92 or curBeat == 100 or curBeat == 108
 
 function onBeatHit()
-
-    if curBeat %7 == 2 then
-        playAnim('canon','shot')
-        playAnim('canon2','shot')
+    if songName == 'Chastity' then
+        if curBeat %8 == 2 then
+            playAnim('canon','shot')
+            playAnim('canon2','shot')
+        end       
+    elseif songName == 'No Sex' then
+        if curBeat >= 0 and curBeat <= 64 then
+            if curBeat %8 == 2 then
+                playAnim('canon','shot')
+                playAnim('canon2','shot')
+            end  
+        end
+        if curBeat >= 160 and curBeat <= 224 then
+            if curBeat %8 == 2 then
+                playAnim('canon','shot')
+                playAnim('canon2','shot')
+            end  
+        end
+        
     end
+
 
 end

@@ -19,9 +19,9 @@
 	<SubTexture name="ScottProfOh0000" x="1579" y="518" width="319" height="465"/>
 	<SubTexture name="ScottProfOne0000" x="1918" y="518" width="385" height="461"/>
 	<SubTexture name="ScottProfPoint0000" x="2323" y="518" width="423" height="459"/>
-	<SubTexture name="ScottProfPoint20000" x="2766" y="518" width="557" height="460"/>
-	<SubTexture name="ScottProfRTHR0000" x="3343" y="518" width="302" height="434"/>
-	<SubTexture name="ScottProfShock0000" x="3665" y="518" width="304" height="457"/>
+	<SubTexture name="ScottProfPoint20000" x="2766" y="518" width="561" height="460"/>
+	<SubTexture name="ScottProfRTHR0000" x="3347" y="518" width="302" height="434"/>
+	<SubTexture name="ScottProfShock0000" x="3669" y="518" width="304" height="457"/>
 	<SubTexture name="ScottProfShow0000" x="20" y="1019" width="470" height="456"/>
 	<SubTexture name="ScottProfShowWhat0000" x="510" y="1019" width="485" height="460"/>
 	<SubTexture name="ScottProfTwo0000" x="1015" y="1019" width="496" height="463"/>

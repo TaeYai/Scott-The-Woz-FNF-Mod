@@ -1,6 +1,7 @@
 function onCreate()
     luaDebugMode = true
     setPropertyFromClass('GameOverSubstate', 'characterName', 'holydad');
+    setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'dadgameover');
     
     makeLuaSprite('bg', 'museum/Museum', -400, -400);
     addLuaSprite('bg', false);

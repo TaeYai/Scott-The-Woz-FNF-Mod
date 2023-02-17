@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="char.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bscott idle dance copy0000" x="5" y="5" width="477" height="688" frameX="0" frameY="-20" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0001" x="5" y="5" width="477" height="688" frameX="0" frameY="-20" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0002" x="487" y="5" width="457" height="682" frameX="-5" frameY="-26" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0003" x="487" y="5" width="457" height="682" frameX="-5" frameY="-26" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0004" x="949" y="5" width="403" height="696" frameX="-14" frameY="-12" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0005" x="949" y="5" width="403" height="696" frameX="-14" frameY="-12" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0006" x="1357" y="5" width="436" height="703" frameX="-12" frameY="-5" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0007" x="1357" y="5" width="436" height="703" frameX="-12" frameY="-5" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0008" x="1798" y="5" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0009" x="1798" y="5" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0010" x="1798" y="5" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0011" x="1798" y="5" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0012" x="1798" y="5" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="Bscott idle dance copy0013" x="1798" y="5" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="PScott idle dance0000" x="2256" y="5" width="659" height="539" frameX="0" frameY="-18" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0001" x="2256" y="5" width="659" height="539" frameX="0" frameY="-18" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0002" x="2920" y="5" width="647" height="545" frameX="-6" frameY="-12" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0003" x="2920" y="5" width="647" height="545" frameX="-6" frameY="-12" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0004" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0005" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0006" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0007" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0008" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0009" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0010" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0011" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0012" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="PScott idle dance0013" x="3572" y="5" width="629" height="557" frameX="-15" frameY="0" frameWidth="659" frameHeight="557"/>
+	<SubTexture name="Rex Idle0000" x="4206" y="5" width="496" height="695" frameX="0" frameY="-25" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0001" x="4206" y="5" width="496" height="695" frameX="0" frameY="-25" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0002" x="4707" y="5" width="492" height="697" frameX="-4" frameY="-23" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0003" x="4707" y="5" width="492" height="697" frameX="-4" frameY="-23" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0004" x="5204" y="5" width="461" height="710" frameX="-8" frameY="-10" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0005" x="5204" y="5" width="461" height="710" frameX="-8" frameY="-10" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0006" x="5670" y="5" width="484" height="719" frameX="-8" frameY="-1" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0007" x="5670" y="5" width="484" height="719" frameX="-8" frameY="-1" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0008" x="6159" y="5" width="487" height="720" frameX="-8" frameY="0" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0009" x="6159" y="5" width="487" height="720" frameX="-8" frameY="0" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0010" x="6159" y="5" width="487" height="720" frameX="-8" frameY="0" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0011" x="6159" y="5" width="487" height="720" frameX="-8" frameY="0" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0012" x="6159" y="5" width="487" height="720" frameX="-8" frameY="0" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Rex Idle0013" x="6159" y="5" width="487" height="720" frameX="-8" frameY="0" frameWidth="496" frameHeight="720"/>
+	<SubTexture name="Steel Wool Idle0000" x="6651" y="5" width="466" height="712" frameX="0" frameY="-32" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0001" x="6651" y="5" width="466" height="712" frameX="0" frameY="-32" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0002" x="7122" y="5" width="436" height="714" frameX="-24" frameY="-30" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0003" x="7122" y="5" width="436" height="714" frameX="-24" frameY="-30" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0004" x="7563" y="5" width="402" height="733" frameX="-44" frameY="-11" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0005" x="7563" y="5" width="402" height="733" frameX="-44" frameY="-11" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0006" x="5" y="743" width="409" height="742" frameX="-38" frameY="-2" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0007" x="5" y="743" width="409" height="742" frameX="-38" frameY="-2" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0008" x="419" y="743" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0009" x="419" y="743" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0010" x="419" y="743" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0011" x="419" y="743" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0012" x="419" y="743" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Steel Wool Idle0013" x="419" y="743" width="415" height="744" frameX="-36" frameY="0" frameWidth="466" frameHeight="744"/>
+	<SubTexture name="Team Fucked Idle0000" x="839" y="743" width="715" height="782" frameX="0" frameY="-27" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0001" x="839" y="743" width="715" height="782" frameX="0" frameY="-27" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0002" x="1559" y="743" width="705" height="783" frameX="-4" frameY="-26" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0003" x="1559" y="743" width="705" height="783" frameX="-4" frameY="-26" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0004" x="2269" y="743" width="682" height="797" frameX="-8" frameY="-12" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0005" x="2269" y="743" width="682" height="797" frameX="-8" frameY="-12" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0006" x="2956" y="743" width="678" height="807" frameX="-8" frameY="-2" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0007" x="2956" y="743" width="678" height="807" frameX="-8" frameY="-2" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0008" x="3639" y="743" width="678" height="809" frameX="-8" frameY="0" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0009" x="3639" y="743" width="678" height="809" frameX="-8" frameY="0" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0010" x="3639" y="743" width="678" height="809" frameX="-8" frameY="0" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0011" x="3639" y="743" width="678" height="809" frameX="-8" frameY="0" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0012" x="3639" y="743" width="678" height="809" frameX="-8" frameY="0" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="Team Fucked Idle0013" x="3639" y="743" width="678" height="809" frameX="-8" frameY="0" frameWidth="715" frameHeight="809"/>
+	<SubTexture name="gexgex0000" x="1053" y="1557" width="605" height="587" frameX="0" frameY="-5" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0001" x="1053" y="1557" width="605" height="587" frameX="0" frameY="-5" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0002" x="1663" y="1557" width="605" height="587" frameX="0" frameY="-5" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0003" x="1663" y="1557" width="605" height="587" frameX="0" frameY="-5" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0004" x="2273" y="1557" width="605" height="568" frameX="0" frameY="-24" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0005" x="2273" y="1557" width="605" height="568" frameX="0" frameY="-24" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0006" x="2883" y="1557" width="606" height="587" frameX="-27" frameY="-5" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0007" x="2883" y="1557" width="606" height="587" frameX="-27" frameY="-5" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0008" x="3494" y="1557" width="633" height="574" frameX="0" frameY="-18" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0009" x="3494" y="1557" width="633" height="574" frameX="0" frameY="-18" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0010" x="3494" y="1557" width="633" height="574" frameX="0" frameY="-18" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0011" x="3494" y="1557" width="633" height="574" frameX="0" frameY="-18" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0012" x="3494" y="1557" width="633" height="574" frameX="0" frameY="-18" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="gexgex0013" x="3494" y="1557" width="633" height="574" frameX="0" frameY="-18" frameWidth="633" frameHeight="592"/>
+	<SubTexture name="holyscott0000" x="4132" y="1557" width="431" height="677" frameX="0" frameY="-20" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0001" x="4132" y="1557" width="431" height="677" frameX="0" frameY="-20" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0002" x="4568" y="1557" width="425" height="680" frameX="-3" frameY="-17" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0003" x="4568" y="1557" width="425" height="680" frameX="-3" frameY="-17" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0004" x="4998" y="1557" width="418" height="685" frameX="-6" frameY="-12" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0005" x="4998" y="1557" width="418" height="685" frameX="-6" frameY="-12" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0006" x="5421" y="1557" width="417" height="696" frameX="-6" frameY="-1" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0007" x="5421" y="1557" width="417" height="696" frameX="-6" frameY="-1" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0008" x="5843" y="1557" width="417" height="697" frameX="-6" frameY="0" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0009" x="5843" y="1557" width="417" height="697" frameX="-6" frameY="0" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0010" x="5843" y="1557" width="417" height="697" frameX="-6" frameY="0" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0011" x="5843" y="1557" width="417" height="697" frameX="-6" frameY="0" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0012" x="5843" y="1557" width="417" height="697" frameX="-6" frameY="0" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="holyscott0013" x="5843" y="1557" width="417" height="697" frameX="-6" frameY="0" frameWidth="431" frameHeight="697"/>
+	<SubTexture name="scott idle dance0000" x="4322" y="743" width="477" height="688" frameX="0" frameY="-20" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0001" x="4322" y="743" width="477" height="688" frameX="0" frameY="-20" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0002" x="4804" y="743" width="457" height="682" frameX="-5" frameY="-26" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0003" x="4804" y="743" width="457" height="682" frameX="-5" frameY="-26" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0004" x="5266" y="743" width="403" height="696" frameX="-14" frameY="-12" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0005" x="5266" y="743" width="403" height="696" frameX="-14" frameY="-12" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0006" x="5674" y="743" width="436" height="703" frameX="-12" frameY="-5" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0007" x="5674" y="743" width="436" height="703" frameX="-12" frameY="-5" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0008" x="6115" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0009" x="6115" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0010" x="6115" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0011" x="6115" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0012" x="6115" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="scott idle dance0013" x="6115" y="743" width="453" height="708" frameX="-8" frameY="0" frameWidth="477" frameHeight="708"/>
+	<SubTexture name="yyreJ Idle0000" x="6573" y="743" width="530" height="775" frameX="0" frameY="-27" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0001" x="6573" y="743" width="530" height="775" frameX="0" frameY="-27" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0002" x="7108" y="743" width="526" height="779" frameX="-3" frameY="-23" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0003" x="7108" y="743" width="526" height="779" frameX="-3" frameY="-23" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0004" x="7639" y="743" width="521" height="787" frameX="-9" frameY="-15" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0005" x="7639" y="743" width="521" height="787" frameX="-9" frameY="-15" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0006" x="5" y="1557" width="520" height="800" frameX="-9" frameY="-2" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0007" x="5" y="1557" width="520" height="800" frameX="-9" frameY="-2" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0008" x="530" y="1557" width="518" height="802" frameX="-9" frameY="0" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0009" x="530" y="1557" width="518" height="802" frameX="-9" frameY="0" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0010" x="530" y="1557" width="518" height="802" frameX="-9" frameY="0" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0011" x="530" y="1557" width="518" height="802" frameX="-9" frameY="0" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0012" x="530" y="1557" width="518" height="802" frameX="-9" frameY="0" frameWidth="530" frameHeight="802"/>
+	<SubTexture name="yyreJ Idle0013" x="530" y="1557" width="518" height="802" frameX="-9" frameY="0" frameWidth="530" frameHeight="802"/>
+</TextureAtlas>

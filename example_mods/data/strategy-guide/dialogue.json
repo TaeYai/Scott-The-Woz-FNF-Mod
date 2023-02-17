@@ -1,6 +1,22 @@
 {
 	"dialogue": [
 		{
+			"expression": "wave",
+			"text": "Hi!",
+			"boxState": "normal",
+			"portrait": "jebProfiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "idle",
+			"text": "Vegan introductions.",
+			"boxState": "normal",
+			"portrait": "TerryProfiles",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
 			"expression": "uhoh",
 			"text": "Oh THANK GOD!",
 			"boxState": "angry",
@@ -66,7 +82,7 @@
 		}, 
 		{
 			"expression": "idle",
-			"text": "Have you tried chloroform? 100% vegan, knocks them out.",
+			"text": "Have you tried chloroform or cyanide? 100% vegan, knocks them out.",
 			"boxState": "normal",
 			"portrait": "TerryProfiles",
 			"speed": 0.045,
