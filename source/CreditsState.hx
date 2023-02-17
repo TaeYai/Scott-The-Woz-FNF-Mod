@@ -90,7 +90,7 @@ class CreditsState extends MusicBeatState
 			['NickyRaccoon',			'nick',			'Gex Sprites',							'https://twitter.com/NickyRaccoon',		'7961ff'],
 			['Fabs',			'fab',			'No Sex BG',							'https://twitter.com/fabsthefabs',		'ff70a5'],
 			
-			['Jjaym15',			'jay',			'Musician',							'https://twitter.com/jjaym15',		'fafa8c'],
+			['Jjaym15',			'jay',			'Musician',							'https://twitter.com/jayzeablaze',		'fafa8c'],
 			['ToadOdyssey ',			'toad',			'Musician/Charter',							'https://twitter.com/OdysseyToad',		'd4d4cb'],
 			['Keoni',			'keoni',			'Musician',							'https://twitter.com/AmongUsVore',		'd0e0f5'],
 			['HugeNate',			'nate',			'Musician',							'https://twitter.com/HugeNate_',		'80ffc6'],
@@ -102,9 +102,11 @@ class CreditsState extends MusicBeatState
 			['Fred',				'fred',			'Musician',						'https://twitter.com/fredbear247',			'c451f5'],
 			['Maddie Smiles',				'maddie',			'Musician',						'https://twitter.com/Polyfield_',			'63db3b'],
 			['Saruky',			'saru',			'OG ThunderStorm',							'https://twitter.com/Saruky__',		'fac082'],
-			['Nicolas Karr',			'nicolas',			'Composer of Stupid Nintendo Games',							'https://www.youtube.com/watch?v=dOQAqGhhzdQ',		'4a3dff'],
-			['Garret Williamson',			'garret',			'Composer of Why Don’t You Play Them and Closing In',							'https://www.youtube.com/@gwillymusic',		'4a3dff'],
+			['Nicolas Karr',			'scott',			'Composer of Stupid Nintendo Games',							'https://www.youtube.com/watch?v=dOQAqGhhzdQ',		'4a3dff'],
+			['Garret Williamson',			'scott',			'Composer of Why Don’t You Play Them and Closing In',							'https://www.youtube.com/@gwillymusic',		'4a3dff'],
 			['Hyper Potions',			'potion',			'Remixer of Breakout (Borderline Forever Mix)',							'https://www.youtube.com/watch?v=-cA_0LsHtg4',		'4a3dff'],
+			['DonnieTheGuy',			'scott',			'Remixer of Breakout (Borderline Forever Mix)',							'https://twitter.com/DonnieTheGuy',		'4a3dff'],
+			
 			['LiterallyNoOne',				'lno',			'Vocaler',						'https://twitter.com/L_No_One1',			'86abe3'],
 			['Tae(Skull)',				'taeskull',			'Musician',						'https://twitter.com/taeskull27',			'6885e3'],
 			
