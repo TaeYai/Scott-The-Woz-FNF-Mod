@@ -112,13 +112,12 @@ class CreditsState extends MusicBeatState
 			['Tae(Yai)',				'taeyai',			'Main Programmer',						'https://twitter.com/Taeyai_',			'7081ff'],
 			['Clowfoe',				'clow',			'Side Programmer',						'https://twitter.com/Clowfoe',			'ff8c7d'],
 			['Clodium',				'clod',			'Charter',						'https://twitter.com/ClodiumStuff',			'ff7866'],
-			['Fai',				'fai',			'Charter',						'https://twitter.com/faiding_',			'd4d4cb'],
-			['Juno',				'juno',			'Charter',						'https://www.youtube.com/channel/UC0d7xBrZlhnDI_MugRv2Fvg',			'a5c7d6'],
+			['Faid',				'fai',			'Charter',						'https://twitter.com/faiding_',			'd4d4cb'],
 			['Turtle',				'turtle',			'Charter',						'https://www.youtube.com/channel/UCiNJO7yiPAdONm6VuXh3y2w',			'91ff85'],
 			['Illuztriouz',				'gex',			'Charter',						'https://twitter.com/RealIlluztriouz',			'ba97c9'],	
 			['Biddle3',				'biddle',			'Special Thanks',						'https://twitter.com/Biddy312',			'f4fc51'],
 			['Orbyy',				'orb',			'Special Thanks',						'https://twitter.com/OrbyyNew',			'66dbff'],
-			['SCott Wozniak',				'scott',			'Scott The Woz',						'https://youtu.be/mhbVUf3yyB0?t=2056',			'4a3dff'],
+			['Scott Wozniak',				'scott',			'Scott The Woz',						'https://youtu.be/mhbVUf3yyB0?t=2056',			'4a3dff'],
 			[''],
 			
 			
