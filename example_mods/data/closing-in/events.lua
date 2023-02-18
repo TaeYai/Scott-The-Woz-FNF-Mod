@@ -34,6 +34,8 @@ function onCreatePost()
     setProperty('iconP2.alpha',0)
     setProperty('healthBar.alpha',0)
     setProperty('scoreTxt.alpha',0)
+
+    scaleObject('bg',2,2)
 end
 
 function onSongStart()
@@ -112,6 +114,8 @@ function onStepHit()
     if curStep == 13 then
         doTweenZoom('lolcam','camGame',0.7,4)
         doTweenAlpha('camHUDfade','camHUD',1,4)
+        doTweenX('lolsmall','bg.scale',1.7,4)
+        doTweenY('lolsmall2','bg.scale',1.7,4)
     end
 
     if curStep == 208 then
