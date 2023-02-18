@@ -1,76 +1,76 @@
 {
-	"dialogue_pos": "right",
 	"position": [
 		0,
 		50
 	],
+	"dialogue_pos": "right",
 	"scale": 1.25,
+	"image": "TerryProfiles",
 	"animations": [
 		{
-			"idle_offsets": [
+			"loop_offsets": [
 				-10,
 				0
 			],
 			"anim": "idle",
-			"loop_offsets": [
+			"idle_offsets": [
 				-10,
 				0
 			],
-			"idle_name": "TerryProfDefault0",
-			"loop_name": "TerryProfDefault0"
+			"loop_name": "TerryProfDefault0",
+			"idle_name": "TerryProfDefault0"
 		},
 		{
-			"idle_offsets": [
-				269,
-				0
+			"loop_offsets": [
+				623,
+				2
 			],
 			"anim": "gun",
-			"loop_offsets": [
-				269,
-				0
+			"idle_offsets": [
+				623,
+				2
 			],
-			"idle_name": "TerryProfGun0029",
-			"loop_name": "TerryProfGun0"
+			"loop_name": "TerryProfGun0",
+			"idle_name": "TerryProfGun0029"
 		},
 		{
-			"idle_offsets": [
+			"loop_offsets": [
 				-10,
 				0
 			],
 			"anim": "point",
-			"loop_offsets": [
+			"idle_offsets": [
 				-10,
 				0
 			],
-			"idle_name": "TerryProfPoint0",
-			"loop_name": "TerryProfPoint0"
+			"loop_name": "TerryProfPoint0",
+			"idle_name": "TerryProfPoint0"
 		},
 		{
-			"idle_offsets": [
-				289,
+			"loop_offsets": [
+				288,
 				0
 			],
 			"anim": "think",
-			"loop_offsets": [
-				289,
+			"idle_offsets": [
+				288,
 				0
 			],
-			"idle_name": "TerryProfThink0",
-			"loop_name": "TerryProfThink0"
+			"loop_name": "TerryProfThink0",
+			"idle_name": "TerryProfThink0"
 		},
 		{
-			"idle_offsets": [
+			"loop_offsets": [
 				274,
 				0
 			],
 			"anim": "wait",
-			"loop_offsets": [
+			"idle_offsets": [
 				274,
 				0
 			],
-			"idle_name": "TerryProfWait0",
-			"loop_name": "TerryProfWait0"
+			"loop_name": "TerryProfWait0",
+			"idle_name": "TerryProfWait0"
 		}
-	],
-	"image": "TerryProfiles"
+	]
 }

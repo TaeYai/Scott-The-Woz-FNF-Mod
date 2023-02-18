@@ -2,7 +2,7 @@
 	"dialogue": [
 		{
 			"expression": "how",
-			"text": "Is there SERIOSULY no beating this… how old is this guy anyway?",
+			"text": "Is there SERIOUSLY no beating this... how old is this guy anyway?",
 			"boxState": "angry",
 			"portrait": "scottprofiles",
 			"speed": 0.03,
@@ -58,7 +58,7 @@
 		},
 		{
 			"expression": "flattered",
-			"text": "Oh my godd Boyfrienndddd…",
+			"text": "                   ",
 			"boxState": "normal",
 			"portrait": "gfprofiles",
 			"speed": 0.075,

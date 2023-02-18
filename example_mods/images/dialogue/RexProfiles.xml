@@ -34,6 +34,6 @@
 	<SubTexture name="RexProfExplosuion0027" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
 	<SubTexture name="RexProfExplosuion0028" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
 	<SubTexture name="RexProfExplosuion0029" x="1406" y="1431" width="542" height="451" frameX="-179" frameY="-184" frameWidth="1366" frameHeight="1199"/>
-	<SubTexture name="RexProfGun0000" x="1968" y="1431" width="699" height="453"/>
-	<SubTexture name="RexProfGunAgro0000" x="2687" y="1431" width="699" height="453"/>
+	<SubTexture name="RexProfGun0000" x="1968" y="1431" width="1111" height="493"/>
+	<SubTexture name="RexProfGunAgro0000" x="3099" y="1431" width="699" height="453"/>
 </TextureAtlas>

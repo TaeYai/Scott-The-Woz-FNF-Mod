@@ -34,7 +34,7 @@
 		},
 		{
 			"expression": "point",
-			"text": "\"This guy is just repeating everything I sing and getting away with it..\"”",
+			"text": "This guy is just repeating everything I sing and getting away with it...",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.04,
@@ -50,7 +50,7 @@
 		},
 		{
 			"expression": "idle",
-			"text": "Hi",
+			"text": "bep",
 			"boxState": "normal",
 			"portrait": "bfprofiles",
 			"speed": 0.05,
@@ -74,7 +74,7 @@
 		},
 		{
 			"expression": "wait",
-			"text": "WAIT WAIT WAIT!! I meant advice for singing against him!",
+			"text": "WAIT WAIT WAIT!! I need advice for singing against him!",
 			"boxState": "angry",
 			"portrait": "scottprofiles",
 			"speed": 0.04,

@@ -18,7 +18,7 @@
 		},
 		{
 			"expression": "shock",
-			"text": "\"“Oh no Scott, Friday Night Funkin? Now you’re NEVER\r\ngoing to get laid!\"”",
+			"text": "\"“Oh no Scott, Friday Night Funkin? Now you’re NEVER going to get laid!\"”",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
 			"speed": 0.04,
@@ -57,7 +57,7 @@
 			"sound": ""
 		},
 		{
-			"expression": "mic2",
+			"expression": "mictrans",
 			"text": "kinda like Rhythm Doctor without a medical degree!",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
@@ -75,7 +75,7 @@
 		},
 		{
 			"expression": "mic",
-			"text": "Just rap the shit outta them.",
+			"text": "Just rap the shit outta them!",
 			"boxState": "angry",
 			"portrait": "scottdoc",
 			"speed": 0.075,
@@ -91,7 +91,7 @@
 			"sound": ""
 		},
 		{
-			"expression": "mic",
+			"expression": "mic2",
 			"text": "but c'mon, why would a 23 year old human need something other than a singular hobby talking about video games…",
 			"boxState": "normal",
 			"portrait": "scottprofiles",
