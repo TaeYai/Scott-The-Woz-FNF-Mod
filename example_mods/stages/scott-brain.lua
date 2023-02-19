@@ -1,5 +1,4 @@
 function onCreate()
-    luaDebugMode = true
     makeAnimatedLuaSprite('bg','scottroom/RemasteredBrainBG',-400, -600)
     addAnimationByPrefix('bg','idle','Brain Animation AltAlt nofloor instance 1',24,false)
     addLuaSprite('bg')

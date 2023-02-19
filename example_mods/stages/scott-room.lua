@@ -1,5 +1,4 @@
 function onCreate()
-    luaDebugMode = true
     if songName == 'Team Fucked' then
         makeLuaSprite('bg', 'fucked/FuckedBG', -100, -200);
         addLuaSprite('bg', false);

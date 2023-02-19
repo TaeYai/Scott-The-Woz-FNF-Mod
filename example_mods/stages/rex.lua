@@ -1,6 +1,5 @@
 function onCreate()
 
-    luaDebugMode = true
 
 
     makeLuaSprite('border', 'scottroom/Border',0,-5)
@@ -21,7 +20,6 @@ end
 function onCreatePost()
     setProperty('canon.y',-640)
     setProperty('canon2.y',-540)
-    debugPrint(getProperty('canon2.x'))
 end
 
 

@@ -1,5 +1,4 @@
 function onCreate()
-    luaDebugMode = true
     setPropertyFromClass('GameOverSubstate', 'characterName', 'holydad');
     setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'dadgameover');
     

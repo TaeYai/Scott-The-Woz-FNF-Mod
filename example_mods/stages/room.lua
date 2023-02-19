@@ -1,5 +1,4 @@
 function onCreate()
-    luaDebugMode = true
     setPropertyFromClass('GameOverSubstate', 'deathSoundName', 'break');
     makeLuaSprite('bg', 'mirror/Jerry BG back', -100, -100);
     addLuaSprite('bg', false);
@@ -20,8 +19,6 @@ function onCreate()
     setObjectCamera('border','other')
     addLuaSprite('border',true)
 
-
-    debugPrint(getProperty('camFollow.x'),getProperty('camFollow.y'))
 end
 
 function onCreatePost()
@@ -95,7 +92,6 @@ function onTimerCompleted(t,l,ll)
 	end
 
     if t == 'deadbreak' then
-        debugPrint('BREAK!!!')
         setProperty('hedead.alpha',0)
         setProperty('bg.alpha',0)
         setProperty('bg2.alpha',0)
