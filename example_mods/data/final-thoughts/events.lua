@@ -42,7 +42,9 @@ end
 function onBeatHit()
 
     if curBeat >= 128 and curBeat < 216 then
-        borderhit(getRandomInt(1, 8))
+        if flashingLights == true then
+			borderhit(getRandomInt(1, 8))
+		end
     end
 
 end
@@ -51,7 +53,9 @@ end
 function onStepHit()
 
     if curStep == 128 or curStep == 160 or curStep == 192 or curStep == 224 or curStep == 288 or curStep == 315 or curStep == 344 or curStep == 397 or curStep == 428 or curStep == 475 then
-        borderhit(getRandomInt(1, 8))
+		if flashingLights == true then
+			borderhit(getRandomInt(1, 8))
+		end
     end
 
     if curStep == 896 then

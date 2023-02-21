@@ -91,7 +91,9 @@ end
 function onBeatHit()
 
     if curBeat >= 172 and curBeat < 238 then
-        borderhit(getRandomInt(1, 8))
+        if flashingLights == true then
+			borderhit(getRandomInt(1, 8))
+		end
     end
 
 end
@@ -120,14 +122,20 @@ function onStepHit()
 
     if curStep == 208 then
         doTweenZoom('lolcam2','camGame',0.5,7)
+        doTweenX('lolsmall','bg.scale',2,4)
+        doTweenY('lolsmall2','bg.scale',2,4)
     end
 
     if curStep == 336 then
         doTweenZoom('lolcam2','camGame',1.5,15)
+        doTweenX('lolsmall','bg.scale',1.7,4)
+        doTweenY('lolsmall2','bg.scale',1.7,4)
     end
 
     if curStep == 464 or curStep == 467 or curStep == 471 or curStep == 480 or curStep == 483 or curStep == 487 or curStep == 496 or curStep == 528 or curStep == 531 or curStep == 544 or curStep == 548 or curStep == 551 or curStep == 560 or curStep == 592 or curStep == 595 or curStep == 599 or curStep == 608 or curStep == 611 or curStep == 624 or curStep == 656 or curStep == 672 then
-        borderhit(getRandomInt(1, 8))
+        if flashingLights == true then
+			borderhit(getRandomInt(1, 8))
+		end
     end
 
     if curStep == 952 then

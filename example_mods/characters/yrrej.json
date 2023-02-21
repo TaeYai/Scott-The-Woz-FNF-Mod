@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				225,
-				-11
-			],
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "yyreJ Left0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-30,
+				-19,
 				-45
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "yyreJ Down0"
+			"fps": 24,
+			"name": "yyreJ Down0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-16,
 				38
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "singUP",
-			"indices": [],
-			"name": "yyreJ Up0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				29,
-				4
-			],
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "yyreJ Right0"
+			"name": "yyreJ Up0",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "idle",
-			"indices": [],
-			"name": "yyreJ Idle0"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				20,
-				90
-			],
 			"fps": 24,
-			"anim": "punch",
-			"indices": [],
-			"name": "yyreJ Punch0"
+			"name": "yyreJ Idle0",
+			"indices": []
 		},
 		{
+			"offsets": [
+				10,
+				67
+			],
 			"loop": false,
+			"anim": "punch",
+			"fps": 24,
+			"name": "yyreJ Punch0",
+			"indices": []
+		},
+		{
 			"offsets": [
 				-110,
 				-110
 			],
-			"fps": 24,
+			"loop": false,
 			"anim": "hurt",
+			"fps": 24,
+			"name": "yyreJ Hurt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				21,
+				-11
+			],
 			"indices": [],
-			"name": "yyreJ Hurt0"
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "yyreJ Right0"
+		},
+		{
+			"offsets": [
+				241,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "yyreJ Left0"
 		}
 	],
 	"no_antialiasing": false,

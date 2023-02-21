@@ -117,6 +117,7 @@ class CreditsState extends MusicBeatState
 			['Biddle3',				'biddle',			'Special Thanks',						'https://twitter.com/Biddy312',			'f4fc51'],
 			['Orbyy',				'orb',			'Special Thanks',						'https://twitter.com/OrbyyNew',			'66dbff'],
 			['Clowfoe',				'clow',			'Special Thanks',						'https://twitter.com/Clowfoe',			'ff8c7d'],
+			['Nikkalotz',				'nikk',			'Special Thanks',						'https://twitter.com/nikkalotz',			'f5b642'],
 			['Scott Wozniak',				'scott',			'Scott The Woz',						'https://youtu.be/mhbVUf3yyB0?t=2056',			'4a3dff'],
 			[''],
 			

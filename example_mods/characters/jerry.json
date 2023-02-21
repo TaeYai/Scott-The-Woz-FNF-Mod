@@ -1,81 +1,81 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				185,
-				-1
-			],
 			"loop": false,
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Jerry Left0",
-			"indices": []
-		},
-		{
 			"offsets": [
-				-10,
+				-12,
 				-45
 			],
-			"loop": false,
-			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Jerry Down0",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jerry Down0"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-66,
 				38
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Jerry Up0",
-			"indices": []
+			"indices": [],
+			"name": "Jerry Up0"
 		},
 		{
-			"offsets": [
-				-21,
-				4
-			],
 			"loop": false,
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Jerry Right0",
-			"indices": []
-		},
-		{
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Jerry Idle0",
-			"indices": []
+			"indices": [],
+			"name": "Jerry Idle0"
 		},
 		{
-			"offsets": [
-				-10,
-				0
-			],
 			"loop": false,
+			"offsets": [
+				-20,
+				-10
+			],
+			"fps": 24,
 			"anim": "punch",
+			"indices": [],
+			"name": "Jerry Punch0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-60
+			],
 			"fps": 24,
-			"name": "Jerry Punch0",
-			"indices": []
+			"anim": "hurt",
+			"indices": [],
+			"name": "Jerry Hurt0"
 		},
 		{
 			"offsets": [
-				30,
-				-50
+				214,
+				10
 			],
 			"loop": false,
-			"anim": "hurt",
 			"fps": 24,
-			"name": "Jerry Hurt0",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jerry Left0"
+		},
+		{
+			"offsets": [
+				-34,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jerry Right0"
 		}
 	],
 	"no_antialiasing": false,

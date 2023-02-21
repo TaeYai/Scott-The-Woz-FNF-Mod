@@ -153,10 +153,10 @@ function onStepHit()
             noteTweenY('slide3',3,570,0.3,'expoout')
             setProperty('borders.flipY',true)
         else
-            noteTweenY('slide',0,defaultOpponentStrumY,0.6,'expoout')
-            noteTweenY('slide1',1,defaultOpponentStrumY,0.5,'expoout')
-            noteTweenY('slide2',2,defaultOpponentStrumY,0.4,'expoout')
-            noteTweenY('slide3',3,defaultOpponentStrumY,0.3,'expoout')   
+            noteTweenY('slide',0,50,0.6,'expoout')
+            noteTweenY('slide1',1,50,0.5,'expoout')
+            noteTweenY('slide2',2,50,0.4,'expoout')
+            noteTweenY('slide3',3,50,0.3,'expoout')   
         end
 
 
@@ -167,7 +167,7 @@ function onStepHit()
         noteTweenX('slide7',3,770,0.3,'expoout')
 
         noteTweenX('slide8',4,2000,0.3,'expoout')
-        noteTweenX('slide9',5,defaultPlayerStrumX1,0.3,'expoout')
+        noteTweenX('slide9',5,defaultPlayerStrumX1 + 100,0.3,'expoout')
         noteTweenX('slide10',6,2000,0.3,'expoout')
         noteTweenX('slide11',7,2000,0.3,'expoout')
     
@@ -245,10 +245,10 @@ function onStepHit()
             noteTweenY('slide2',2,570,0.4,'expoout')
             noteTweenY('slide3',3,570,0.3,'expoout')  
         else
-            noteTweenY('slide',0,defaultOpponentStrumY,0.6,'expoout')
-            noteTweenY('slide1',1,defaultOpponentStrumY,0.5,'expoout')
-            noteTweenY('slide2',2,defaultOpponentStrumY,0.4,'expoout')
-            noteTweenY('slide3',3,defaultOpponentStrumY,0.3,'expoout')   
+            noteTweenY('slide',0,50,0.6,'expoout')
+            noteTweenY('slide1',1,50,0.5,'expoout')
+            noteTweenY('slide2',2,50,0.4,'expoout')
+            noteTweenY('slide3',3,50,0.3,'expoout')   
         end
 
         noteTweenX('slide4',0,440,0.6,'expoout')
@@ -257,7 +257,7 @@ function onStepHit()
         noteTweenX('slide7',3,770,0.3,'expoout')
 
         noteTweenX('slide8',4,2000,0.3,'expoout')
-        noteTweenX('slide9',5,defaultPlayerStrumX1,0.3,'expoout')
+        noteTweenX('slide9',5,defaultPlayerStrumX1 + 100,0.3,'expoout')
         noteTweenX('slide10',6,2000,0.3,'expoout')
         noteTweenX('slide11',7,2000,0.3,'expoout')
 
@@ -455,10 +455,10 @@ function onStepHit()
             noteTweenY('slide3',3,570,0.3,'expoout')  
             setProperty('borders.flipY',true)
         else
-            noteTweenY('slide',0,defaultOpponentStrumY,0.6,'expoout')
-            noteTweenY('slide1',1,defaultOpponentStrumY,0.5,'expoout')
-            noteTweenY('slide2',2,defaultOpponentStrumY,0.4,'expoout')
-            noteTweenY('slide3',3,defaultOpponentStrumY,0.3,'expoout')
+            noteTweenY('slide',0,50,0.6,'expoout')
+            noteTweenY('slide1',1,50,0.5,'expoout')
+            noteTweenY('slide2',2,50,0.4,'expoout')
+            noteTweenY('slide3',3,50,0.3,'expoout')
         end
 
 
